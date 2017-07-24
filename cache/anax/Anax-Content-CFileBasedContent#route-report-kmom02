@@ -1,0 +1,79 @@
+O:8:"stdClass":7:{s:4:"file";s:20:"report/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:7:"report/";s:4:"text";s:7:"Reports";}i:0;a:2:{s:3:"url";s:13:"report/kmom02";s:4:"text";s:6:"Kmom02";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:14:"img/report.jpg";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:20:"report/130_kmom03.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom03";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:13:"report/kmom03";}s:8:"previous";a:10:{s:4:"file";s:20:"report/110_kmom01.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom01";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:13:"report/kmom01";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:1964:"<h1>Kmom02</h1>
+
+<ul>
+<li>Vad tycker du om LESS så här långt, och det sättet vi jobbar med LESS-moduler i vårt tema?</li>
+</ul>
+
+<p>Styla webbplatsen med hjälp av LESS och LESS-moduler verkar vara ganska praktiskt.
+Filerna vi skapar bli lätta och enkla att återvända. Tekniken är ny för mig och
+det kommer dra lite tid för att förstå hur alla delar fungerar tillsammans men så här långt
+känns det ganska bra.</p>
+
+<ul>
+<li>Hur kändes det att kompilera LESS till CSS, var det något du reflekterade över?</li>
+</ul>
+
+<p>LESS är en preprocessor till CSS, vilket innebär att den gör CSS till mer effektiva programmeringsspråk
+genom att tillåta användningen av variabler, funktioner och andra tekniker.
+Det gällde att vara uppmärksamt, först genom att installera en lokal utvecklingsmiljö
+för att kompilera LESS till CSS, jag tänker på NPM-paket och sen kunna kopiera efter alla kompilering
+sin stylesheet till katalogen htdocs/css med hjälp av target less-install.
+Det gick bra till slut trotts att det var ganska mycket detaljer att hålla koll på.</p>
+
+<ul>
+<li>Har du varit bekant med Makefiler och make sedan tidigare, eller något liknande byggverktyg?
+Vad tycker du om  make så här lång?</li>
+</ul>
+
+<p>Jag har inte varit bekant med Makefiler och make sedan tidigare men jag uppskattar tekniken.
+Det är smidigt att jobba med. Det underlättar väldigt mycket till exempel kommandona:<br/>
+- <code>$ node_modules/.bin/lessc --version</code> och <code>$ node_modules/.bin/csslint --version</code>&#160;; Kan skrivas med hjälp av makefilen så här&#160;:<br/>
+- <code> $ make npm-version</code>.<br/>
+Det är kortare, smidigare, ovch lättare och jobba med.</p>
+
+<ul>
+<li>Fann du nytta i de videor som var kopplade till detta kursmoment?</li>
+</ul>
+
+<p>Jag har haft stor nytta av de video som var kopplade till detta kursmoment. Det är ett lysande sätt att
+lära sig. En underbar teknik för undervisning enligt mig.</p>
+";s:7:"excerpt";s:1964:"<h1>Kmom02</h1>
+
+<ul>
+<li>Vad tycker du om LESS så här långt, och det sättet vi jobbar med LESS-moduler i vårt tema?</li>
+</ul>
+
+<p>Styla webbplatsen med hjälp av LESS och LESS-moduler verkar vara ganska praktiskt.
+Filerna vi skapar bli lätta och enkla att återvända. Tekniken är ny för mig och
+det kommer dra lite tid för att förstå hur alla delar fungerar tillsammans men så här långt
+känns det ganska bra.</p>
+
+<ul>
+<li>Hur kändes det att kompilera LESS till CSS, var det något du reflekterade över?</li>
+</ul>
+
+<p>LESS är en preprocessor till CSS, vilket innebär att den gör CSS till mer effektiva programmeringsspråk
+genom att tillåta användningen av variabler, funktioner och andra tekniker.
+Det gällde att vara uppmärksamt, först genom att installera en lokal utvecklingsmiljö
+för att kompilera LESS till CSS, jag tänker på NPM-paket och sen kunna kopiera efter alla kompilering
+sin stylesheet till katalogen htdocs/css med hjälp av target less-install.
+Det gick bra till slut trotts att det var ganska mycket detaljer att hålla koll på.</p>
+
+<ul>
+<li>Har du varit bekant med Makefiler och make sedan tidigare, eller något liknande byggverktyg?
+Vad tycker du om  make så här lång?</li>
+</ul>
+
+<p>Jag har inte varit bekant med Makefiler och make sedan tidigare men jag uppskattar tekniken.
+Det är smidigt att jobba med. Det underlättar väldigt mycket till exempel kommandona:<br/>
+- <code>$ node_modules/.bin/lessc --version</code> och <code>$ node_modules/.bin/csslint --version</code>&#160;; Kan skrivas med hjälp av makefilen så här&#160;:<br/>
+- <code> $ make npm-version</code>.<br/>
+Det är kortare, smidigare, ovch lättare och jobba med.</p>
+
+<ul>
+<li>Fann du nytta i de videor som var kopplade till detta kursmoment?</li>
+</ul>
+
+<p>Jag har haft stor nytta av de video som var kopplade till detta kursmoment. Det är ett lysande sätt att
+lära sig. En underbar teknik för undervisning enligt mig.</p>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";a:10:{s:4:"file";s:20:"report/130_kmom03.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom03";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:13:"report/kmom03";}s:8:"previous";a:10:{s:4:"file";s:20:"report/110_kmom01.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom01";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:13:"report/kmom01";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:7:"Reports";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:9:{s:12:"report/index";a:9:{s:4:"file";s:19:"report/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:12:"report/intro";a:9:{s:4:"file";s:19:"report/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom01";a:9:{s:4:"file";s:20:"report/110_kmom01.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom01";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom02";a:9:{s:4:"file";s:20:"report/120_kmom02.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom02";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom03";a:9:{s:4:"file";s:20:"report/130_kmom03.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom03";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom04";a:9:{s:4:"file";s:20:"report/140_kmom04.md";s:7:"section";s:3:"140";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom04";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom05";a:9:{s:4:"file";s:20:"report/150_kmom05.md";s:7:"section";s:3:"150";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom05";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom06";a:9:{s:4:"file";s:20:"report/160_kmom06.md";s:7:"section";s:3:"160";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom06";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"report/kmom10";a:9:{s:4:"file";s:20:"report/170_kmom10.md";s:7:"section";s:3:"170";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom10";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:6:"Kmom02";}}

@@ -1,0 +1,7 @@
+O:8:"stdClass":7:{s:4:"file";s:10:"contact.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:3:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:7:"contact";s:4:"text";s:7:"Contact";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:18:"img/dbwbbisar1.png";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:148:"<h1>Contact</h1>
+
+<p>Any questions about this site can be emailed to <a href="https://easyfysik.se">Georges Kayembe</a> on (kayss.g@gmail.com).</p>
+";s:7:"excerpt";s:148:"<h1>Contact</h1>
+
+<p>Any questions about this site can be emailed to <a href="https://easyfysik.se">Georges Kayembe</a> on (kayss.g@gmail.com).</p>
+";}}}s:11:"frontmatter";a:1:{s:5:"title";s:7:"Contact";}}
