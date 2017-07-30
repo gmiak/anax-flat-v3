@@ -2,6 +2,93 @@ Revision history
 =======================================
 
 
+v1.0.31 (2016-12-05)
+---------------------------------------
+
+* Added missing `htodcs/js` for example site dbwebb.se.
+
+
+v1.0.30 (2016-12-05)
+---------------------------------------
+
+* Added dbwebb.se as example site, for content writers.
+
+
+v1.0.29 (2016-12-02)
+---------------------------------------
+
+* Adding installation procedure for content writers.
+
+
+v1.0.28 (2016-12-01)
+---------------------------------------
+
+* Fix. Spelling error in `.htaccess_wwwstudent`.
+
+
+v1.0.27 (2016-11-28)
+---------------------------------------
+
+* Add CSS classes for showing grid through query string.
+
+
+v1.0.26 (2016-11-15)
+---------------------------------------
+
+* Rewrote theme selector.
+
+
+v1.0.25 (2016-11-15)
+---------------------------------------
+
+* Adding target cimage-create to Makefile.
+* Adding rewrite-rule for cimage to htaccess samples.
+
+
+v1.0.24 (2016-11-14)
+---------------------------------------
+
+* removing stray ).
+* Fix. Theme chooser can not do a redirect as a template file.
+
+
+v1.0.23 (2016-11-14)
+---------------------------------------
+
+* Enhanced theme selector to use several classes and additional stylesheets.
+
+
+v1.0.22 (2016-11-07)
+---------------------------------------
+
+* Fixed wrong path in `.htaccss_wwwstudent` #1.
+
+
+v1.0.21 (2016-11-07)
+---------------------------------------
+
+* Add prepared files for `.htaccss_*` supporting friendly urls.
+
+
+v1.0.20 (2016-11-07)
+---------------------------------------
+
+* Add example on linking to images directly.
+
+
+v1.0.19 (2016-11-04)
+---------------------------------------
+
+* Target `make site-update` did not copy Makefile.
+
+
+v1.0.18 (2016-11-04)
+---------------------------------------
+
+* Added target `make clean-cache` to clear out the cache.
+* Makefile-dev to work on Mac, Linux, Cygwin using colors and help.
+
+
 v1.0.17 (2016-11-01)
 ---------------------------------------
 

@@ -36,7 +36,8 @@ trait TShortcode
             "/\[(YOUTUBE)[\s+](.+)\]/",
             "/\[(ASCIINEMA)[\s+](.+)\]/",
             "/\[(BOOK)[\s+](.+)\]/",
-            "/(```)([\w]*)\n([^`]*)```[\n]{1}/s",
+            //"/(```)([\w]*)\n([.]*)```[\n]{1}/s",
+            "/(```)([\w]*)\n(.*?)```\n/s",
             '/\[(INFO)\]/',
             '/\[(\/INFO)\]/',
             '/\[(WARNING)\]/',
@@ -220,10 +221,14 @@ EOD;
             $end = "</a>";
         }
 
+        if ($caption) {
+            $caption = "<figcaption markdown=1>{$caption}</figcaption>";
+        }
+
         $html = <<<EOD
 <figure{$id}{$class}>
 {$start}<img src="{$src}" alt="{$alt}"{$title}/>{$end}
-<figcaption markdown=1>{$caption}</figcaption>
+{$caption}
 </figure>
 EOD;
 

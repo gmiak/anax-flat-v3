@@ -20,19 +20,6 @@ return [
               "title" => t("Home's page")
           ],
 
-          "grid" => [
-              "text"  => t("Grid"),
-              "url"   => $this->di->get("url")->create("grid"),
-              "title" => t("Page for grid"),
-              "class" => "gridPage",
-          ],
-
-          "typografi" => [
-              "text"  => t("Typografi"),
-              "url"   => $this->di->get("url")->create("typografi"),
-              "title" => t("Page for Typography"),
-              "class" => "typografiPage",
-          ],
 
           "about" => [
               "text"  => t("About"),
@@ -47,6 +34,34 @@ return [
                 "title" => t("Reports from kmom assignments"),
                 "mark-if-parent" => true,
             ],
+
+
+
+            "grids" => [
+                           "text"  =>t("Grids"),
+                           "url"   => $this->di->get("url")->create("themeGrids"),
+                           "title" => "Delta i communityn",
+                           "submenu" => [
+                               "items" => [
+                                   "grid"  => [
+                                       "text"  => "Grid",
+                                       "url"   => $this->di->get("url")->create("grid"),
+                                       "title" => "Vertikal grid",
+                                   ],
+                                   "Typografi"  => [
+                                       "text"  => "Typografi",
+                                       "url"   => $this->di->get("url")->create("typografi"),
+                                       "title" => "Horisontal grid",
+                                   ],
+
+                               ],
+                           ],
+              ],
+              "theme" => [
+                  "text"  => t("Tema"),
+                  "url"   => $this->di->get("url")->create("theme"),
+                  "title" => t("My webbsite theme")
+              ],
 
 
         ],

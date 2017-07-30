@@ -6,6 +6,51 @@ Revision history
 History for Anax
 -----------------------------------
 
+v2.5.27 (2017-06-22)
+
+* Fix warning in CFileBasedContent for PHP 7, need convert to integer.
+
+
+v2.5.26 (2017-06-08)
+
+* Enable markdown link to same page using ./.
+
+
+v2.5.25 (2017-01-04)
+
+* Use `ANAX_APP_PATH` for session name.
+
+
+v2.5.24 (2016-11-28)
+
+* Add method `CRequest::hasGet()`.
+
+
+v2.5.23 (2016-11-15)
+
+* Rework CThemeEngine to configure theme selector.
+
+
+v2.5.22 (2016-11-14)
+
+* Add backlink to content source in revision history.
+
+
+v2.5.21 (2016-11-14)
+
+* Correct theme engine to use added stylesheets and js.
+
+
+v2.5.20 (2016-11-07)
+
+* Cleanup debug info for urls with `!`.
+
+
+v2.5.19 (2016-11-07)
+
+* Treat relative urls, in documents in folder `content`, as assets when they are started with a `!`.
+
+
 v2.5.18 (2016-10-31)
 
 * Fix incoming url that has encoded characters.

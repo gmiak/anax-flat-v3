@@ -53,9 +53,44 @@ help:
 
 
 
+# target: clean-cache         - Clean the cache, might need sudo.
+.PHONY: clean-cache
+clean-cache:
+	@$(call HELPTEXT,$@)
+
+	@$(ECHO) "$(ACTION)Remove and re-create the directory for the cache items$(NO_COLOR)"
+	[ ! -d cache ] || rm -rf cache/ 
+	install -d -m 777 cache/cimage cache/anax
+
+
+
+# target: cimage-create       - Update and create basis for cimage.
+.PHONY: cimage-create
+
+define CIMAGE_CONF
+<?php
+return [
+	'mode'         => 'development',
+	'image_path'   =>  __DIR__ . '/../img/',
+	'cache_path'   =>  __DIR__ . '/../../cache/cimage/',
+];
+endef
+export CIMAGE_CONF
+
+cimage-create:
+	@$(call HELPTEXT,$@)
+
+	@$(ECHO) "$(ACTION)Copy from CImage$(NO_COLOR)"
+	install -d htdocs/cimage
+	rsync -a vendor/mos/cimage/webroot/imgd.php htdocs/cimage/imgd.php
+	rsync -a vendor/mos/cimage/icc/ htdocs/cimage/icc/
+	@echo "$$CIMAGE_CONF" > htdocs/cimage/imgd_config.php
+
+
+
 # target: site-build          - Copy default structure from Anax Flat.
 .PHONY: site-build
-site-build:
+site-build: cimage-create
 	@$(call HELPTEXT,$@)
 
 	@$(ECHO) "$(ACTION)Copy from anax-flat$(NO_COLOR)"
@@ -64,13 +99,16 @@ site-build:
 	rsync -a vendor/mos/anax-flat/content/ content/
 	rsync -a vendor/mos/anax-flat/view/ view/
 
-	@$(ECHO) "$(ACTION)Copy from CImage$(NO_COLOR)"
-	install -d htdocs/cimage
-	rsync -a vendor/mos/cimage/webroot/imgd.php htdocs/cimage/imgd.php
-	rsync -a vendor/mos/cimage/icc/ htdocs/cimage/icc/
-
 	@$(ECHO) "$(ACTION)Create the directory for the cache items$(NO_COLOR)"
 	install -d -m 777 cache/cimage cache/anax
+
+
+
+# target: site-build-dbwebb   - Make site look like dbwebb.se.
+.PHONY: site-build-dbwebb
+site-build-dbwebb: site-build
+	@$(call HELPTEXT,$@)
+	rsync -a vendor/mos/anax-flat/example/dbwebb.se/ ./
 
 
 
@@ -81,11 +119,7 @@ site-update:
 	composer update
 
 	@$(ECHO) "$(ACTION)Copy Makefile$(NO_COLOR)"
-	rsync -av vendor/mos/anax-flat/Makefile
-
-	@$(ECHO) "$(ACTION)Copy from CImage$(NO_COLOR)"
-	rsync -a vendor/mos/cimage/webroot/imgd.php htdocs/cimage/imgd.php
-	rsync -a vendor/mos/cimage/icc/ htdocs/cimage/icc/
+	rsync -av vendor/mos/anax-flat/Makefile .
 
 
 

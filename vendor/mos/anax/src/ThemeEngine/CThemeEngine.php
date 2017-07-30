@@ -148,7 +148,7 @@ class CThemeEngine implements IThemeEngine, \Anax\DI\IInjectionAware
      */
     public function addStylesheet($uri)
     {
-        $this->config["data"]["stylesheets"][] = $uri;
+        $this->config["view"]["data"]["stylesheets"][] = $uri;
         return $this;
     }
 
@@ -163,7 +163,22 @@ class CThemeEngine implements IThemeEngine, \Anax\DI\IInjectionAware
      */
     public function addJavaScript($uri)
     {
-        $this->config["data"]["javascript_include"][] = $uri;
+        $this->config["view"]["data"]["javascript_include"][] = $uri;
+        return $this;
+    }
+
+
+
+    /**
+     * Set/clear a key/value from the configuration file.
+     *
+     * @param string $uri to add.
+     *
+     * @return $this
+     */
+    public function setConfigKey($key, $value)
+    {
+        $this->config["view"]["data"][$key] = $value;
         return $this;
     }
 
@@ -188,6 +203,7 @@ class CThemeEngine implements IThemeEngine, \Anax\DI\IInjectionAware
             "currentRoute" => "route-" . str_replace("/", "-", $this->di->get("request")->getRoute()),
         ];
         $view = $this->config["view"];
+
         $view["data"] = array_merge_recursive($defaultData, $this->data, $view["data"]);
 
         if (isset($this->template)) {

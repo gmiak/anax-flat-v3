@@ -5,9 +5,9 @@ The primary focus of this site is to:
 
 * To be used in learning the [dbwebb course design](http://dbwebb.se/design).
 
-The source for this site is available on GitHub in [Anax-flat-beta](https://github.com/gmiak/Anax-flat).
+The source for this site is available on GitHub in [Anax-flat-v3](https://github.com/gmiak/anax-flat-v3).
 
-The theme source for this site is available on GitHub in [Anax-flat-theme](https://github.com/gmiak/anax-flat-theme).
+The theme source for this site is available on GitHub in [Anax-flat-theme-v3](https://github.com/gmiak/anax-flat-theme-v3).
 
 This site is produced by [Georges Kayembe](https://dbwebb.se) (kayss.g@gmail.com).
 

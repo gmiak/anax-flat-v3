@@ -1,116 +1,5 @@
 [
     {
-        "name": "symfony/yaml",
-        "version": "v3.1.6",
-        "version_normalized": "3.1.6.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/symfony/yaml.git",
-            "reference": "7ff51b06c6c3d5cc6686df69004a42c69df09e27"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/symfony/yaml/zipball/7ff51b06c6c3d5cc6686df69004a42c69df09e27",
-            "reference": "7ff51b06c6c3d5cc6686df69004a42c69df09e27",
-            "shasum": ""
-        },
-        "require": {
-            "php": ">=5.5.9"
-        },
-        "time": "2016-10-24 18:41:13",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "3.1-dev"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "Symfony\\Component\\Yaml\\": ""
-            },
-            "exclude-from-classmap": [
-                "/Tests/"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Fabien Potencier",
-                "email": "fabien@symfony.com"
-            },
-            {
-                "name": "Symfony Community",
-                "homepage": "https://symfony.com/contributors"
-            }
-        ],
-        "description": "Symfony Yaml Component",
-        "homepage": "https://symfony.com"
-    },
-    {
-        "name": "mos/cimage",
-        "version": "v0.7.18",
-        "version_normalized": "0.7.18.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/mosbth/cimage.git",
-            "reference": "8001f72a1ac8de2b7c80b711b9f8d16eb97fd22e"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/mosbth/cimage/zipball/8001f72a1ac8de2b7c80b711b9f8d16eb97fd22e",
-            "reference": "8001f72a1ac8de2b7c80b711b9f8d16eb97fd22e",
-            "shasum": ""
-        },
-        "require": {
-            "ext-gd": "*",
-            "php": ">=5.3"
-        },
-        "suggest": {
-            "ext-exif": "*"
-        },
-        "time": "2016-08-09 11:27:46",
-        "type": "library",
-        "installation-source": "dist",
-        "autoload": {
-            "files": [
-                "defines.php",
-                "functions.php"
-            ],
-            "classmap": [
-                "CImage.php",
-                "CHttpGet.php",
-                "CRemoteImage.php",
-                "CWhitelist.php",
-                "CAsciiArt.php",
-                "CCache.php",
-                "CFastTrackCache.php"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Mikael Roos",
-                "email": "me@mikaelroos.se",
-                "homepage": "http://mikaelroos.se",
-                "role": "Developer"
-            }
-        ],
-        "description": "Process, scale, resize, crop and filter images.",
-        "homepage": "http://dbwebb.se/opensource/cimage",
-        "keywords": [
-            "gd",
-            "image",
-            "imageprocessing"
-        ]
-    },
-    {
         "name": "scrivo/highlight.php",
         "version": "v9.0.0",
         "version_normalized": "9.0.0.0",
@@ -125,7 +14,7 @@
             "reference": "a905bf346a47f5fa40f33641b346c37f418d1242",
             "shasum": ""
         },
-        "time": "2016-01-01 14:08:00",
+        "time": "2016-01-01T14:08:00+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -147,52 +36,6 @@
         ]
     },
     {
-        "name": "ezyang/htmlpurifier",
-        "version": "v4.8.0",
-        "version_normalized": "4.8.0.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/ezyang/htmlpurifier.git",
-            "reference": "d0c392f77d2f2a3dcf7fcb79e2a1e2b8804e75b2"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/ezyang/htmlpurifier/zipball/d0c392f77d2f2a3dcf7fcb79e2a1e2b8804e75b2",
-            "reference": "d0c392f77d2f2a3dcf7fcb79e2a1e2b8804e75b2",
-            "shasum": ""
-        },
-        "require": {
-            "php": ">=5.2"
-        },
-        "time": "2016-07-16 12:58:58",
-        "type": "library",
-        "installation-source": "dist",
-        "autoload": {
-            "psr-0": {
-                "HTMLPurifier": "library/"
-            },
-            "files": [
-                "library/HTMLPurifier.composer.php"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "LGPL"
-        ],
-        "authors": [
-            {
-                "name": "Edward Z. Yang",
-                "email": "admin@htmlpurifier.org",
-                "homepage": "http://ezyang.com"
-            }
-        ],
-        "description": "Standards compliant HTML filter written in PHP",
-        "homepage": "http://htmlpurifier.org/",
-        "keywords": [
-            "html"
-        ]
-    },
-    {
         "name": "michelf/php-markdown",
         "version": "1.6.0",
         "version_normalized": "1.6.0.0",
@@ -210,7 +53,7 @@
         "require": {
             "php": ">=5.3.0"
         },
-        "time": "2015-12-24 01:37:31",
+        "time": "2015-12-24T01:37:31+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -263,7 +106,7 @@
         "require": {
             "php": ">=5.3.0"
         },
-        "time": "2016-10-10 18:14:08",
+        "time": "2016-10-10T18:14:08+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -303,18 +146,186 @@
         ]
     },
     {
-        "name": "mos/ctextfilter",
-        "version": "v1.2.16",
-        "version_normalized": "1.2.16.0",
+        "name": "symfony/yaml",
+        "version": "v3.3.5",
+        "version_normalized": "3.3.5.0",
         "source": {
             "type": "git",
-            "url": "https://github.com/mosbth/ctextfilter.git",
-            "reference": "4c5b2bd3f76798665e2dc7207281cb4882098692"
+            "url": "https://github.com/symfony/yaml.git",
+            "reference": "1f93a8d19b8241617f5074a123e282575b821df8"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/mosbth/ctextfilter/zipball/4c5b2bd3f76798665e2dc7207281cb4882098692",
-            "reference": "4c5b2bd3f76798665e2dc7207281cb4882098692",
+            "url": "https://api.github.com/repos/symfony/yaml/zipball/1f93a8d19b8241617f5074a123e282575b821df8",
+            "reference": "1f93a8d19b8241617f5074a123e282575b821df8",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.5.9"
+        },
+        "require-dev": {
+            "symfony/console": "~2.8|~3.0"
+        },
+        "suggest": {
+            "symfony/console": "For validating YAML files using the lint command"
+        },
+        "time": "2017-06-15T12:58:50+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "3.3-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Symfony\\Component\\Yaml\\": ""
+            },
+            "exclude-from-classmap": [
+                "/Tests/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Fabien Potencier",
+                "email": "fabien@symfony.com"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "https://symfony.com/contributors"
+            }
+        ],
+        "description": "Symfony Yaml Component",
+        "homepage": "https://symfony.com"
+    },
+    {
+        "name": "mos/cimage",
+        "version": "v0.7.19",
+        "version_normalized": "0.7.19.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mosbth/cimage.git",
+            "reference": "f9604518e478a5097f29f991b61ba8ee36e7e5ba"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mosbth/cimage/zipball/f9604518e478a5097f29f991b61ba8ee36e7e5ba",
+            "reference": "f9604518e478a5097f29f991b61ba8ee36e7e5ba",
+            "shasum": ""
+        },
+        "require": {
+            "ext-gd": "*",
+            "php": ">=5.3"
+        },
+        "suggest": {
+            "ext-curl": "*",
+            "ext-exif": "*",
+            "ext-imagick": "*"
+        },
+        "time": "2017-03-30T22:47:55+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "defines.php",
+                "functions.php"
+            ],
+            "classmap": [
+                "CImage.php",
+                "CHttpGet.php",
+                "CRemoteImage.php",
+                "CWhitelist.php",
+                "CAsciiArt.php",
+                "CCache.php",
+                "CFastTrackCache.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Mikael Roos",
+                "email": "me@mikaelroos.se",
+                "homepage": "http://mikaelroos.se",
+                "role": "Developer"
+            }
+        ],
+        "description": "Process, scale, resize, crop and filter images.",
+        "homepage": "http://dbwebb.se/opensource/cimage",
+        "keywords": [
+            "gd",
+            "image",
+            "imageprocessing"
+        ]
+    },
+    {
+        "name": "ezyang/htmlpurifier",
+        "version": "v4.9.3",
+        "version_normalized": "4.9.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ezyang/htmlpurifier.git",
+            "reference": "95e1bae3182efc0f3422896a3236e991049dac69"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ezyang/htmlpurifier/zipball/95e1bae3182efc0f3422896a3236e991049dac69",
+            "reference": "95e1bae3182efc0f3422896a3236e991049dac69",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2"
+        },
+        "require-dev": {
+            "simpletest/simpletest": "^1.1"
+        },
+        "time": "2017-06-03T02:28:16+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "HTMLPurifier": "library/"
+            },
+            "files": [
+                "library/HTMLPurifier.composer.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "LGPL"
+        ],
+        "authors": [
+            {
+                "name": "Edward Z. Yang",
+                "email": "admin@htmlpurifier.org",
+                "homepage": "http://ezyang.com"
+            }
+        ],
+        "description": "Standards compliant HTML filter written in PHP",
+        "homepage": "http://htmlpurifier.org/",
+        "keywords": [
+            "html"
+        ]
+    },
+    {
+        "name": "mos/ctextfilter",
+        "version": "v1.2.20",
+        "version_normalized": "1.2.20.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mosbth/ctextfilter.git",
+            "reference": "f324263f13fdc931982648443bb54da8ce5ad0c6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mosbth/ctextfilter/zipball/f324263f13fdc931982648443bb54da8ce5ad0c6",
+            "reference": "f324263f13fdc931982648443bb54da8ce5ad0c6",
             "shasum": ""
         },
         "require": {
@@ -330,7 +341,7 @@
             "mustangostang/spyc": "^0.6",
             "symfony/yaml": "^3.1"
         },
-        "time": "2016-10-31 12:22:27",
+        "time": "2017-02-06T23:08:34+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -369,23 +380,23 @@
     },
     {
         "name": "mos/anax",
-        "version": "v2.5.18",
-        "version_normalized": "2.5.18.0",
+        "version": "v2.5.27",
+        "version_normalized": "2.5.27.0",
         "source": {
             "type": "git",
             "url": "https://github.com/mosbth/anax.git",
-            "reference": "0fd248ea44afe5442b05b29cc5df8960b7523fef"
+            "reference": "1b43f8c586504746e8cdc122c66d6e81625ae319"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/mosbth/anax/zipball/0fd248ea44afe5442b05b29cc5df8960b7523fef",
-            "reference": "0fd248ea44afe5442b05b29cc5df8960b7523fef",
+            "url": "https://api.github.com/repos/mosbth/anax/zipball/1b43f8c586504746e8cdc122c66d6e81625ae319",
+            "reference": "1b43f8c586504746e8cdc122c66d6e81625ae319",
             "shasum": ""
         },
         "require": {
             "php": ">=5.6"
         },
-        "time": "2016-10-31 10:01:17",
+        "time": "2017-06-22T11:55:29+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -425,17 +436,17 @@
     },
     {
         "name": "mos/anax-flat",
-        "version": "v1.0.17",
-        "version_normalized": "1.0.17.0",
+        "version": "v1.0.31",
+        "version_normalized": "1.0.31.0",
         "source": {
             "type": "git",
             "url": "https://github.com/canax/anax-flat.git",
-            "reference": "59f1eceb172b190333cca92ab1687da1e8d19d65"
+            "reference": "f93064b60a9fbed73c7e6c42fec3cead88af85c2"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/canax/anax-flat/zipball/59f1eceb172b190333cca92ab1687da1e8d19d65",
-            "reference": "59f1eceb172b190333cca92ab1687da1e8d19d65",
+            "url": "https://api.github.com/repos/canax/anax-flat/zipball/f93064b60a9fbed73c7e6c42fec3cead88af85c2",
+            "reference": "f93064b60a9fbed73c7e6c42fec3cead88af85c2",
             "shasum": ""
         },
         "require": {
@@ -448,7 +459,7 @@
             "ext-yaml": "*",
             "mustangostang/spyc": "^0.6"
         },
-        "time": "2016-11-01 07:48:04",
+        "time": "2016-12-05T17:03:47+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {

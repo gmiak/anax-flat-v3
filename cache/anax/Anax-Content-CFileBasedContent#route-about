@@ -6,14 +6,14 @@ O:8:"stdClass":7:{s:4:"file";s:8:"about.md";s:7:"section";s:0:"";s:5:"level";i:0
 <li>To be used in learning the <a href="http://dbwebb.se/design">dbwebb course design</a>.</li>
 </ul>
 
-<p>The source for this site is available on GitHub in <a href="https://github.com/gmiak/Anax-flat">Anax-flat-beta</a>.</p>
+<p>The source for this site is available on GitHub in <a href="https://github.com/gmiak/anax-flat-v3">Anax-flat-v3</a>.</p>
 
-<p>The theme source for this site is available on GitHub in <a href="https://github.com/gmiak/anax-flat-theme">Anax-flat-theme</a>.</p>
+<p>The theme source for this site is available on GitHub in <a href="https://github.com/gmiak/anax-flat-theme-v3">Anax-flat-theme-v3</a>.</p>
 
 <p>This site is produced by <a href="https://dbwebb.se">Georges Kayembe</a> (kayss.g@gmail.com).</p>
 
 <p>
-<img src="http://localhost/dbwebb-kurser/design/me/kmom03/anax-flat/htdocs/img/webdesign.jpg?" alt="alt text" class="mesmall">
+<img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/webdesign.jpg?" alt="alt text" class="mesmall">
 </p>
 ";s:7:"excerpt";s:679:"<h1>About this site</h1>
 
@@ -23,13 +23,13 @@ O:8:"stdClass":7:{s:4:"file";s:8:"about.md";s:7:"section";s:0:"";s:5:"level";i:0
 <li>To be used in learning the <a href="http://dbwebb.se/design">dbwebb course design</a>.</li>
 </ul>
 
-<p>The source for this site is available on GitHub in <a href="https://github.com/gmiak/Anax-flat">Anax-flat-beta</a>.</p>
+<p>The source for this site is available on GitHub in <a href="https://github.com/gmiak/anax-flat-v3">Anax-flat-v3</a>.</p>
 
-<p>The theme source for this site is available on GitHub in <a href="https://github.com/gmiak/anax-flat-theme">Anax-flat-theme</a>.</p>
+<p>The theme source for this site is available on GitHub in <a href="https://github.com/gmiak/anax-flat-theme-v3">Anax-flat-theme-v3</a>.</p>
 
 <p>This site is produced by <a href="https://dbwebb.se">Georges Kayembe</a> (kayss.g@gmail.com).</p>
 
 <p>
-<img src="http://localhost/dbwebb-kurser/design/me/kmom03/anax-flat/htdocs/img/webdesign.jpg?" alt="alt text" class="mesmall">
+<img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/webdesign.jpg?" alt="alt text" class="mesmall">
 </p>
 ";}}}s:11:"frontmatter";a:1:{s:5:"title";s:15:"About this site";}}

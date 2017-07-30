@@ -14,7 +14,7 @@ Cheers and happy building of websites,
 /Georges
 
 <div style="overflow=auto;" markdown=1>
-<img src="img/steve.jpg?" alt="alt text">
+<img src="img/bild1.jpg?" alt="alt text">
 </div>
 
 Peace and Love,  
