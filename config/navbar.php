@@ -62,6 +62,13 @@ return [
                   "url"   => $this->di->get("url")->create("theme"),
                   "title" => t("My webbsite theme")
               ],
+              "analysis" => [
+                  "text"  => t("Analysis"),
+                  "url"   => $this->di->get("url")->create("analysis"),
+                  "title" => t("Reports from differents websites"),
+                  "mark-if-parent" => true,
+              ],
+
 
 
         ],
