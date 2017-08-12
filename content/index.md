@@ -18,4 +18,11 @@ Cheers and happy building of websites,
 </div>
 
 Peace and Love,  
-/Georges Kayembe
+Georges Kayembe
+
+
+Skala om bilder
+==============================================
+![En fin bild](cimage/imgd.php?src=art2.jpg&w=600)<br>
+![En fin bild](cimage/imgd.php?src=art2.jpg&w=400)<br>
+![En fin bild](cimage/imgd.php?src=art2.jpg&w=200)

@@ -12,5 +12,5 @@ The theme source for this site is available on GitHub in [Anax-flat-theme-v3](ht
 This site is produced by [Georges Kayembe](https://dbwebb.se) (kayss.g@gmail.com).
 
 <p>
-<img src="img/webdesign.jpg?" alt="alt text" class="mesmall">
+<img src="img/webdesign.jpg?" alt="alt text">
 </p>

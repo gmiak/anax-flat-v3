@@ -34,42 +34,57 @@ return [
                 "title" => t("Reports from kmom assignments"),
                 "mark-if-parent" => true,
             ],
+            "services" => [
+                "text"  => t("Services"),
+                "url"   => $this->di->get("url")->create("services"),
+                "title" => t("All exercices"),
+                "submenu" => [
+                    "items" => [
+                      "grids" => [
+                                     "text"  =>t("Grids"),
+                                     "url"   => $this->di->get("url")->create("themeGrids"),
+                                     "title" => "Delta i communityn",
+                                     "submenu" => [
+                                         "items" => [
+                                             "grid"  => [
+                                                 "text"  => "Grid",
+                                                 "url"   => $this->di->get("url")->create("grid"),
+                                                 "title" => "Vertikal grid",
+                                             ],
+                                             "Typografi"  => [
+                                                 "text"  => "Typografi",
+                                                 "url"   => $this->di->get("url")->create("typografi"),
+                                                 "title" => "Horisontal grid",
+                                             ],
 
+                                         ],
+                                     ],
+                        ],
+                        "theme" => [
+                            "text"  => t("Tema"),
+                            "url"   => $this->di->get("url")->create("theme"),
+                            "title" => t("My webbsite theme")
+                        ],
+                        "analysis" => [
+                            "text"  => t("Analysis"),
+                            "url"   => $this->di->get("url")->create("analysis"),
+                            "title" => t("Reports from differents websites"),
+                            "mark-if-parent" => true,
+                        ],
+                        "images" => [
+                            "text"  => t("Images"),
+                            "url"   => $this->di->get("url")->create("images"),
+                            "title" => t("Figures")
+                        ],
+                        "blogg" => [
+                            "text"  => t("Blogg"),
+                            "url"   => $this->di->get("url")->create("blogg"),
+                            "title" => t("Blogg")
+                        ],
 
-
-            "grids" => [
-                           "text"  =>t("Grids"),
-                           "url"   => $this->di->get("url")->create("themeGrids"),
-                           "title" => "Delta i communityn",
-                           "submenu" => [
-                               "items" => [
-                                   "grid"  => [
-                                       "text"  => "Grid",
-                                       "url"   => $this->di->get("url")->create("grid"),
-                                       "title" => "Vertikal grid",
-                                   ],
-                                   "Typografi"  => [
-                                       "text"  => "Typografi",
-                                       "url"   => $this->di->get("url")->create("typografi"),
-                                       "title" => "Horisontal grid",
-                                   ],
-
-                               ],
-                           ],
-              ],
-              "theme" => [
-                  "text"  => t("Tema"),
-                  "url"   => $this->di->get("url")->create("theme"),
-                  "title" => t("My webbsite theme")
-              ],
-              "analysis" => [
-                  "text"  => t("Analysis"),
-                  "url"   => $this->di->get("url")->create("analysis"),
-                  "title" => t("Reports from differents websites"),
-                  "mark-if-parent" => true,
-              ],
-
-
+                    ],
+                ],
+            ],
 
         ],
     ],
@@ -106,6 +121,8 @@ return [
                 "title" => t("Reports from kmom assignments"),
                 "mark-if-parent" => true,
             ],
+
+
 
 
         ],
