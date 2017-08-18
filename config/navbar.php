@@ -66,7 +66,7 @@ return [
                             "title" => t("My webbsite theme")
                         ],
                         "analysis" => [
-                            "text"  => t("Analysis"),
+                            "text"  => t("Analys"),
                             "url"   => $this->di->get("url")->create("analysis"),
                             "title" => t("Reports from differents websites"),
                             "mark-if-parent" => true,
@@ -80,6 +80,11 @@ return [
                             "text"  => t("Blogg"),
                             "url"   => $this->di->get("url")->create("blogg"),
                             "title" => t("Blogg")
+                        ],
+                        "design-principle" => [
+                            "text"  => t("Design"),
+                            "url"   => $this->di->get("url")->create("design-principle"),
+                            "title" => t("Design")
                         ],
 
                     ],
