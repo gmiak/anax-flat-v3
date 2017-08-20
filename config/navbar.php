@@ -81,9 +81,9 @@ return [
                             "url"   => $this->di->get("url")->create("blogg"),
                             "title" => t("Blogg")
                         ],
-                        "design-principle" => [
+                        "design" => [
                             "text"  => t("Design"),
-                            "url"   => $this->di->get("url")->create("design-principle"),
+                            "url"   => $this->di->get("url")->create("design"),
                             "title" => t("Design")
                         ],
 
