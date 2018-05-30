@@ -1,0 +1,47 @@
+O:8:"stdClass":7:{s:4:"file";s:17:"blogg/110_stan.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:6:"blogg/";s:4:"text";s:5:"Blogg";}i:0;a:2:{s:3:"url";s:10:"blogg/stan";s:4:"text";s:4:"Town";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:14:"img/report.jpg";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:21:"blogg/120_promenad.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:8:"Promenad";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"blogg/promenad";}s:8:"previous";a:10:{s:4:"file";s:22:"blogg/100_svampjakt.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:9:"Svampjakt";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:15:"blogg/svampjakt";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:2010:"<h1>Town</h1>
+
+<p><b>By Georges, publish 6 augusti 2017</b></p>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/cimage/imgd.php?src=blogg/stan4.jpg&amp;w=600&amp;h=400" alt="Svamp jakt bild 1" /><br>
+<i>En promenad i stan en sol dag.</i></p>
+
+<p>På väg till Älvstrandens bibliotek som ligger i Lundby i Göteborg då såg jag det strålande utsikt och kunde absolut inte hålla mig för att bli fotad. Bilden togs av mitt hjärtat, Emelie. Huset man ser på vänstersidan är Ericsson. Efter det borde ligga Lindholmens tekniska gymnasium.</p>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/cimage/imgd.php?src=blogg/stan4.jpg&amp;w=500&amp;h=500&amp;crop-to-fit" alt="Svamp jakt bild 1" /><br>
+<i>Lite ändring på area. h=500 and w=500 &amp; crop-to-fit</i></p>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/cimage/imgd.php?src=blogg/stan4.jpg&amp;w=500&amp;h=500&amp;crop-to-fit&amp;area=25,0,0,0" alt="Svamp jakt bild 1" /><br>
+<i>Jag försökte klippa 25% på top av bilden. h=500 and w=500 &amp; crop-to-fit &amp; area=25,0,0,0</i></p>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/cimage/imgd.php?src=blogg/stan4.jpg&amp;w=500&amp;h=500&amp;crop-to-fit&amp;area=0,20,0,0" alt="Svamp jakt bild 1" /><br>
+<i>minus 20% på höger. h=500 and w=500 &amp; crop-to-fit &amp; area=0,20,0,0</i></p>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/cimage/imgd.php?src=blogg/stan4.jpg&amp;w=500&amp;h=500&amp;crop-to-fit&amp;area=0,0,20,0" alt="Svamp jakt bild 1" /><br>
+<i>minus 20% &#8216;bottom&#8217;. h=500 and w=500 &amp; crop-to-fit &amp; area=0,0,20,0</i></p>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/cimage/imgd.php?src=blogg/stan4.jpg&amp;w=500&amp;h=500&amp;crop-to-fit&amp;area=25,20,20,20" alt="Svamp jakt bild 1" /><br>
+<i>minus 25% top, minus 20% left, right, bottom&#8217;. h=500 and w=500 &amp; crop-to-fit &amp; area=25,20,20,20</i></p>
+";s:7:"excerpt";s:2010:"<h1>Town</h1>
+
+<p><b>By Georges, publish 6 augusti 2017</b></p>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/cimage/imgd.php?src=blogg/stan4.jpg&amp;w=600&amp;h=400" alt="Svamp jakt bild 1" /><br>
+<i>En promenad i stan en sol dag.</i></p>
+
+<p>På väg till Älvstrandens bibliotek som ligger i Lundby i Göteborg då såg jag det strålande utsikt och kunde absolut inte hålla mig för att bli fotad. Bilden togs av mitt hjärtat, Emelie. Huset man ser på vänstersidan är Ericsson. Efter det borde ligga Lindholmens tekniska gymnasium.</p>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/cimage/imgd.php?src=blogg/stan4.jpg&amp;w=500&amp;h=500&amp;crop-to-fit" alt="Svamp jakt bild 1" /><br>
+<i>Lite ändring på area. h=500 and w=500 &amp; crop-to-fit</i></p>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/cimage/imgd.php?src=blogg/stan4.jpg&amp;w=500&amp;h=500&amp;crop-to-fit&amp;area=25,0,0,0" alt="Svamp jakt bild 1" /><br>
+<i>Jag försökte klippa 25% på top av bilden. h=500 and w=500 &amp; crop-to-fit &amp; area=25,0,0,0</i></p>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/cimage/imgd.php?src=blogg/stan4.jpg&amp;w=500&amp;h=500&amp;crop-to-fit&amp;area=0,20,0,0" alt="Svamp jakt bild 1" /><br>
+<i>minus 20% på höger. h=500 and w=500 &amp; crop-to-fit &amp; area=0,20,0,0</i></p>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/cimage/imgd.php?src=blogg/stan4.jpg&amp;w=500&amp;h=500&amp;crop-to-fit&amp;area=0,0,20,0" alt="Svamp jakt bild 1" /><br>
+<i>minus 20% &#8216;bottom&#8217;. h=500 and w=500 &amp; crop-to-fit &amp; area=0,0,20,0</i></p>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/cimage/imgd.php?src=blogg/stan4.jpg&amp;w=500&amp;h=500&amp;crop-to-fit&amp;area=25,20,20,20" alt="Svamp jakt bild 1" /><br>
+<i>minus 25% top, minus 20% left, right, bottom&#8217;. h=500 and w=500 &amp; crop-to-fit &amp; area=25,20,20,20</i></p>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";a:10:{s:4:"file";s:21:"blogg/120_promenad.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:8:"Promenad";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"blogg/promenad";}s:8:"previous";a:10:{s:4:"file";s:22:"blogg/100_svampjakt.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:9:"Svampjakt";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:15:"blogg/svampjakt";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:5:"Blogg";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:5:{s:11:"blogg/index";a:9:{s:4:"file";s:18:"blogg/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"blogg/svampjakt";a:9:{s:4:"file";s:22:"blogg/100_svampjakt.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:9:"Svampjakt";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:10:"blogg/stan";a:9:{s:4:"file";s:17:"blogg/110_stan.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:4:"Town";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"blogg/promenad";a:9:{s:4:"file";s:21:"blogg/120_promenad.md";s:7:"section";s:3:"120";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:8:"Promenad";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"blogg/shopping";a:9:{s:4:"file";s:21:"blogg/130_shopping.md";s:7:"section";s:3:"130";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:8:"Shopping";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:4:"Town";}}

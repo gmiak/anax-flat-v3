@@ -1,0 +1,83 @@
+O:8:"stdClass":7:{s:4:"file";s:22:"analysis/110_kmom01.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:9:"analysis/";s:4:"text";s:8:"Analysis";}i:0;a:2:{s:3:"url";s:15:"analysis/kmom01";s:4:"text";s:6:"Kmom01";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:14:"img/report.jpg";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:27:"analysis/400_colorscheme.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:11:"Colorscheme";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:20:"analysis/colorscheme";}s:8:"previous";a:10:{s:4:"file";s:21:"analysis/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"analysis/intro";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:2368:"<h1>Kmom01</h1>
+
+<ul>
+<li>Är du sedan tidigare van att jobba i ramverk för att bygga webbplatser? Om ja, vilka ramverk/språk har
+du jobbat med?</li>
+</ul>
+
+<p>Jag har inte jobbat sen tidigare med ramverk för att bygga webbplatser. Det är en ny teknik för mig.</p>
+
+<ul>
+<li>Det blev en del nya verktyg i labbmiljön, var de nya för dig eller kände det du igen dem?</li>
+</ul>
+
+<p>Det var inga stora ändringar när det gällde att installera labbmiljö. Jag använder samma text editor (Atom), webbläsare (Chrome eller mozilla), terminalen och MacOs Sierra 10.12 som operativsystem.
+De flesta funktioner eller verktyg kommer med systemmet när man jobbar med Mac os så ofta slipper man installera dem. Det gällde istället att lära sig hur alla dessa vertyg fungerar och hur de kan underlätta
+vardagen för en webbprogrammerare till exempel verktyget Make för att nämna bara det.</p>
+
+<ul>
+<li>Hur kändes det att jobba med Anax Flat och bygga din me-sida?</li>
+</ul>
+
+<p>Det kändes instruktivt att jobba med Anax Flat. Det var helt annat sätt att bygga sin webbplats.
+Det skildes ganska mycket med &#8220;vanliga&#8221; eller &#8220;normala&#8221; metoder som man har lärt sig tidigare
+det vill säga HTML och CSS.
+Syntaxen var annorlunda. Strukturen var helt annat till exempel tekniken vi använde för att lägga till en ny
+sida, ett nytt block. Ramverket styr oss kort sagt.</p>
+
+<ul>
+<li>Har du några förutfattade meningar, eller kanske en etablerad övertygelse, inom design och användbarhet för webben?</li>
+</ul>
+
+<p>Enligt wikipedia, design kommer från latinets designo = peka ut, framställa.
+Jag kan säga att ”design” inom webbtjänster; är hur man beskriver webbplatsen utseendemässigt. Hur alla objekt är presenterat för att underlätta för användarna.
+Det är ett betydligt stort jobb för en webbprogrammerare att förstå den interaktionen för att kunna diskutera ”design” och ”användbarthet&#8221; med en specialist det vill säga en webbdesigner.
+Som webbprogramerare måste man skaffa sig kunskaper inom detta område om man vill bygga webbplatser som håller.</p>
+
+<ul>
+<li>Det fanns videor som kompletterade artiklarna, hjälpte de dig att förstå materialet bättre?</li>
+</ul>
+
+<p>De hjälpte väldigt mycket. Innehållet var välsituerad och fick mig att komma igång smidigare med kursmomenten.</p>
+";s:7:"excerpt";s:2368:"<h1>Kmom01</h1>
+
+<ul>
+<li>Är du sedan tidigare van att jobba i ramverk för att bygga webbplatser? Om ja, vilka ramverk/språk har
+du jobbat med?</li>
+</ul>
+
+<p>Jag har inte jobbat sen tidigare med ramverk för att bygga webbplatser. Det är en ny teknik för mig.</p>
+
+<ul>
+<li>Det blev en del nya verktyg i labbmiljön, var de nya för dig eller kände det du igen dem?</li>
+</ul>
+
+<p>Det var inga stora ändringar när det gällde att installera labbmiljö. Jag använder samma text editor (Atom), webbläsare (Chrome eller mozilla), terminalen och MacOs Sierra 10.12 som operativsystem.
+De flesta funktioner eller verktyg kommer med systemmet när man jobbar med Mac os så ofta slipper man installera dem. Det gällde istället att lära sig hur alla dessa vertyg fungerar och hur de kan underlätta
+vardagen för en webbprogrammerare till exempel verktyget Make för att nämna bara det.</p>
+
+<ul>
+<li>Hur kändes det att jobba med Anax Flat och bygga din me-sida?</li>
+</ul>
+
+<p>Det kändes instruktivt att jobba med Anax Flat. Det var helt annat sätt att bygga sin webbplats.
+Det skildes ganska mycket med &#8220;vanliga&#8221; eller &#8220;normala&#8221; metoder som man har lärt sig tidigare
+det vill säga HTML och CSS.
+Syntaxen var annorlunda. Strukturen var helt annat till exempel tekniken vi använde för att lägga till en ny
+sida, ett nytt block. Ramverket styr oss kort sagt.</p>
+
+<ul>
+<li>Har du några förutfattade meningar, eller kanske en etablerad övertygelse, inom design och användbarhet för webben?</li>
+</ul>
+
+<p>Enligt wikipedia, design kommer från latinets designo = peka ut, framställa.
+Jag kan säga att ”design” inom webbtjänster; är hur man beskriver webbplatsen utseendemässigt. Hur alla objekt är presenterat för att underlätta för användarna.
+Det är ett betydligt stort jobb för en webbprogrammerare att förstå den interaktionen för att kunna diskutera ”design” och ”användbarthet&#8221; med en specialist det vill säga en webbdesigner.
+Som webbprogramerare måste man skaffa sig kunskaper inom detta område om man vill bygga webbplatser som håller.</p>
+
+<ul>
+<li>Det fanns videor som kompletterade artiklarna, hjälpte de dig att förstå materialet bättre?</li>
+</ul>
+
+<p>De hjälpte väldigt mycket. Innehållet var välsituerad och fick mig att komma igång smidigare med kursmomenten.</p>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";a:10:{s:4:"file";s:27:"analysis/400_colorscheme.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:11:"Colorscheme";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:20:"analysis/colorscheme";}s:8:"previous";a:10:{s:4:"file";s:21:"analysis/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"analysis/intro";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:8:"Analysis";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:4:{s:14:"analysis/index";a:9:{s:4:"file";s:21:"analysis/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"analysis/intro";a:9:{s:4:"file";s:21:"analysis/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:15:"analysis/kmom01";a:9:{s:4:"file";s:22:"analysis/110_kmom01.md";s:7:"section";s:3:"110";s:5:"level";i:1;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Kmom01";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:20:"analysis/colorscheme";a:9:{s:4:"file";s:27:"analysis/400_colorscheme.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:11:"Colorscheme";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:6:"Kmom01";}}

@@ -1,0 +1,85 @@
+O:8:"stdClass":7:{s:4:"file";s:33:"analysis/600_design-principles.md";s:7:"section";s:3:"600";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:9:"analysis/";s:4:"text";s:6:"Analys";}i:0;a:2:{s:3:"url";s:26:"analysis/design-principles";s:4:"text";s:17:"Design principles";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:14:"img/report.jpg";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";N;s:8:"previous";a:10:{s:4:"file";s:35:"analysis/500_speed-and-usability.md";s:7:"section";s:3:"500";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:19:"Speed-and-Usability";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:28:"analysis/speed-and-usability";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:3769:"<h1>Design principles</h1>
+
+<p>Jag har gjort urvalet av sidor på ett metodiskt sätt. Jag ville ha ganska enkla sidor där man kan tydligt finna spår av olika designprinciper.</p>
+
+<h3>Trafikverket</h3>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/designprincip/trafikverket.png" alt="alt text"></p>
+
+<p>Målet med Trafikverkets webbplats bör vara att kunna ge information om infrastrukturplaneringen för
+vägtrafik, järnvägstrafik, sjöfart och luftfart. Hemsidans uppdrag är att göra lätt tillgängligt all information om trafik och cirkulation i Sverige. Färgerna vit-grå är dominerande men de använder sig en röd accentfärg. Det var rätt att använda röd tycker jag. Man får en riktig känsla att besöka webbplatsen till en myndighet som ansvarar för långsiktig planering av transportsystemet för alla trafikslag samt för byggande, drift och underhåll av statliga vägar och järnvägar. Det känns som när man kör bil och ser ett stoppskylt. Jag kan tänka mig att de använder sig av designprinciperna som&#160;: &#8220;Balance&#8221; och
+&#8220;Hierarchy&#8221; med tänke på hur saker ligger symetriskt och i vilken ordning de följer varandra.</p>
+
+<hr>
+
+<h3>Transportstyrelsen</h3>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/designprincip/transportstyrelsen.png" alt="alt text"></p>
+
+<p>Transportstyrelsens webbplats ger; på skillnad med Trafikverkets hemsida; regler om vinterdäck, information om fordonsregler, trängselskatt, ägarebyte och regestreringsbevis. Transportstyrelsen utformar regler och ger tillstånd, till exempel körkort och certifikat. De använder sig av designprinciperna som &#8220;Balance&#8221; och &#8220;Hierarchy&#8221; men i övrigt tycker att de jobbade mycket horisontellt och efter en grid.</p>
+
+<hr>
+
+<h3>Skatteverket</h3>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/designprincip/skattverket.png" alt="alt text"></p>
+
+<p>Skatteverket webbplats har för mål att ge besökaren information om skatten, möjligheten att göra en flyttanmälan, möjligheten att beställa personbevis och id-kort och att kunna deklarera.<br>
+Jag tycker att de har lyckas med att styla sidan väldigt harmoniskt och fint. Valet av gul färg väcker en känsla av trygghet och glädje. Det kan också självklart just för att det är Skatteverkets hemsida symboliserar &#8220;guld&#8221; eller &#8220;pengar&#8221;.
+Innehållet på sidan ligger väldigt symetriskt som skapar en bra &#8220;Balance&#8221;. Man märker att nästan alla element på sidan har samma &#8220;weight&#8221; och &#8220;height&#8221;. Repetition av den gula färgen kan också vara en av de designprinciperna.</p>
+
+<hr>
+
+<h3>Försäkringskassan</h3>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/designprincip/kassan.png" alt="alt text"></p>
+
+<p>Försäkringskassans webbplats har för mål att ge besökaren information om alla typ av underhållstöd och ersättningar. Här hittar du till exempel information om föräldrapenning, bostadsbidrag, barnbidrag, sjukpenning, handikappersättning, etc..<br/>Man har valt grön accentfärg som jag tycker är väldigt bra. Grönt är vårens och hoppets färg. De använder &#8220;Vertical balance&#8221; och väldigt fin &#8220;Composition&#8221; och sedan jobbar dem efter &#8220;Grid&#8221;.</p>
+
+<h3>Sammanfattning</h3>
+
+<p><i>Jag har skrivit artikeln själv, alla hemsidor har jag sökt och studerat på eget hand.
+Man märker att alla fyra webbplatser tillhör en myndighet i Sverige. Tanken bakom det var att kunna hitta webbplatser som innehåller viktiga informationer för att kunna se vilka av dem designprinciper de använder och hur sidorna ser ut.</i></p>
+";s:7:"excerpt";s:3769:"<h1>Design principles</h1>
+
+<p>Jag har gjort urvalet av sidor på ett metodiskt sätt. Jag ville ha ganska enkla sidor där man kan tydligt finna spår av olika designprinciper.</p>
+
+<h3>Trafikverket</h3>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/designprincip/trafikverket.png" alt="alt text"></p>
+
+<p>Målet med Trafikverkets webbplats bör vara att kunna ge information om infrastrukturplaneringen för
+vägtrafik, järnvägstrafik, sjöfart och luftfart. Hemsidans uppdrag är att göra lätt tillgängligt all information om trafik och cirkulation i Sverige. Färgerna vit-grå är dominerande men de använder sig en röd accentfärg. Det var rätt att använda röd tycker jag. Man får en riktig känsla att besöka webbplatsen till en myndighet som ansvarar för långsiktig planering av transportsystemet för alla trafikslag samt för byggande, drift och underhåll av statliga vägar och järnvägar. Det känns som när man kör bil och ser ett stoppskylt. Jag kan tänka mig att de använder sig av designprinciperna som&#160;: &#8220;Balance&#8221; och
+&#8220;Hierarchy&#8221; med tänke på hur saker ligger symetriskt och i vilken ordning de följer varandra.</p>
+
+<hr>
+
+<h3>Transportstyrelsen</h3>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/designprincip/transportstyrelsen.png" alt="alt text"></p>
+
+<p>Transportstyrelsens webbplats ger; på skillnad med Trafikverkets hemsida; regler om vinterdäck, information om fordonsregler, trängselskatt, ägarebyte och regestreringsbevis. Transportstyrelsen utformar regler och ger tillstånd, till exempel körkort och certifikat. De använder sig av designprinciperna som &#8220;Balance&#8221; och &#8220;Hierarchy&#8221; men i övrigt tycker att de jobbade mycket horisontellt och efter en grid.</p>
+
+<hr>
+
+<h3>Skatteverket</h3>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/designprincip/skattverket.png" alt="alt text"></p>
+
+<p>Skatteverket webbplats har för mål att ge besökaren information om skatten, möjligheten att göra en flyttanmälan, möjligheten att beställa personbevis och id-kort och att kunna deklarera.<br>
+Jag tycker att de har lyckas med att styla sidan väldigt harmoniskt och fint. Valet av gul färg väcker en känsla av trygghet och glädje. Det kan också självklart just för att det är Skatteverkets hemsida symboliserar &#8220;guld&#8221; eller &#8220;pengar&#8221;.
+Innehållet på sidan ligger väldigt symetriskt som skapar en bra &#8220;Balance&#8221;. Man märker att nästan alla element på sidan har samma &#8220;weight&#8221; och &#8220;height&#8221;. Repetition av den gula färgen kan också vara en av de designprinciperna.</p>
+
+<hr>
+
+<h3>Försäkringskassan</h3>
+
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/designprincip/kassan.png" alt="alt text"></p>
+
+<p>Försäkringskassans webbplats har för mål att ge besökaren information om alla typ av underhållstöd och ersättningar. Här hittar du till exempel information om föräldrapenning, bostadsbidrag, barnbidrag, sjukpenning, handikappersättning, etc..<br/>Man har valt grön accentfärg som jag tycker är väldigt bra. Grönt är vårens och hoppets färg. De använder &#8220;Vertical balance&#8221; och väldigt fin &#8220;Composition&#8221; och sedan jobbar dem efter &#8220;Grid&#8221;.</p>
+
+<h3>Sammanfattning</h3>
+
+<p><i>Jag har skrivit artikeln själv, alla hemsidor har jag sökt och studerat på eget hand.
+Man märker att alla fyra webbplatser tillhör en myndighet i Sverige. Tanken bakom det var att kunna hitta webbplatser som innehåller viktiga informationer för att kunna se vilka av dem designprinciper de använder och hur sidorna ser ut.</i></p>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";N;s:8:"previous";a:10:{s:4:"file";s:35:"analysis/500_speed-and-usability.md";s:7:"section";s:3:"500";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:19:"Speed-and-Usability";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:28:"analysis/speed-and-usability";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:8:"Analyser";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:5:{s:14:"analysis/index";a:9:{s:4:"file";s:21:"analysis/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"analysis/intro";a:9:{s:4:"file";s:21:"analysis/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:20:"analysis/colorscheme";a:9:{s:4:"file";s:27:"analysis/400_colorscheme.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:11:"Colorscheme";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:28:"analysis/speed-and-usability";a:9:{s:4:"file";s:35:"analysis/500_speed-and-usability.md";s:7:"section";s:3:"500";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:19:"Speed-and-Usability";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:26:"analysis/design-principles";a:9:{s:4:"file";s:33:"analysis/600_design-principles.md";s:7:"section";s:3:"600";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:17:"Design principles";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:17:"Design principles";}}

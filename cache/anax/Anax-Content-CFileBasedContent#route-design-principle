@@ -1,0 +1,45 @@
+O:8:"stdClass":7:{s:4:"file";s:19:"design-principle.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:3:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:16:"design-principle";s:4:"text";s:17:"Design principles";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:14:"img/header.png";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:1662:"<h1>Design principles</h1>
+
+<p>Här hittar du temaväljaren&#160;: <a href="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/theme-selector">theme-selector</a>.</p>
+
+<h3>Tema 1&#160;: Movement</h3>
+
+<p>I mitt tema &#8216;Movement&#8217; har jag valt att återanvända min &#8220;Standard-tema&#8221; men däremot har jag försökt att skapa en rörlse känsla med det. Jag gjorde så här att varje gång man laddar om sidan då flyttar runt i 4 sekunder innehållet som är in i tagen &#8220;article&#8221;. Hela lådan flyttar runt i fyra sekunder och ändra färger varje sekund. Jag har placerat en bakgrundsbild på min html fil som också skapa en rörelse känsla.</p>
+
+<p>Källa&#160;: <a href="https://designschool.canva.com/design-elements-principles">Design Element &amp; Principles</a>.</p>
+
+<h3>Tema 2&#160;: Contrast</h3>
+
+<p>I mitt tema &#8216;Contrast&#8217; har jag valt att återanvända min &#8220;dark&#8221; tema. Jag använde mig av mörk och vit bakgrund för att skapa en kontrast känsla.</p>
+
+<p>Källa&#160;: <a href="https://designschool.canva.com/design-elements-principles">Design Element &amp; Principles</a> &amp;
+<a href="https://dbwebb.se/article/vl.pdf">Articles about Design Principles</a>.</p>
+
+<h3>Tema 3&#160;: Depth</h3>
+
+<p>Jag försökte att skapa en illusion om  3D genom att använda skuggor på alla mina bilder och på min navbar. Jag har också valt att lägga in en bakrungsbild som är tagen under havet för att ge en &#8220;Depth&#8221; eller &#8220;Djup&#8221; känsla.</p>
+
+<p>källa&#160;: <a href="https://designschool.canva.com/design-elements-principles">Design Element &amp; Principles</a>.</p>
+";s:7:"excerpt";s:1662:"<h1>Design principles</h1>
+
+<p>Här hittar du temaväljaren&#160;: <a href="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/theme-selector">theme-selector</a>.</p>
+
+<h3>Tema 1&#160;: Movement</h3>
+
+<p>I mitt tema &#8216;Movement&#8217; har jag valt att återanvända min &#8220;Standard-tema&#8221; men däremot har jag försökt att skapa en rörlse känsla med det. Jag gjorde så här att varje gång man laddar om sidan då flyttar runt i 4 sekunder innehållet som är in i tagen &#8220;article&#8221;. Hela lådan flyttar runt i fyra sekunder och ändra färger varje sekund. Jag har placerat en bakgrundsbild på min html fil som också skapa en rörelse känsla.</p>
+
+<p>Källa&#160;: <a href="https://designschool.canva.com/design-elements-principles">Design Element &amp; Principles</a>.</p>
+
+<h3>Tema 2&#160;: Contrast</h3>
+
+<p>I mitt tema &#8216;Contrast&#8217; har jag valt att återanvända min &#8220;dark&#8221; tema. Jag använde mig av mörk och vit bakgrund för att skapa en kontrast känsla.</p>
+
+<p>Källa&#160;: <a href="https://designschool.canva.com/design-elements-principles">Design Element &amp; Principles</a> &amp;
+<a href="https://dbwebb.se/article/vl.pdf">Articles about Design Principles</a>.</p>
+
+<h3>Tema 3&#160;: Depth</h3>
+
+<p>Jag försökte att skapa en illusion om  3D genom att använda skuggor på alla mina bilder och på min navbar. Jag har också valt att lägga in en bakrungsbild som är tagen under havet för att ge en &#8220;Depth&#8221; eller &#8220;Djup&#8221; känsla.</p>
+
+<p>källa&#160;: <a href="https://designschool.canva.com/design-elements-principles">Design Element &amp; Principles</a>.</p>
+";}}}s:11:"frontmatter";a:1:{s:5:"title";s:17:"Design principles";}}
