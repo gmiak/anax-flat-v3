@@ -1,0 +1,199 @@
+O:8:"stdClass":7:{s:4:"file";s:25:"analysis/701_usability.md";s:7:"section";s:3:"701";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:9:"analysis/";s:4:"text";s:6:"Analys";}i:0;a:2:{s:3:"url";s:18:"analysis/usability";s:4:"text";s:9:"Usability";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:14:"img/report.jpg";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:21:"analysis/702_write.md";s:7:"section";s:3:"702";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Write";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"analysis/write";}s:8:"previous";a:10:{s:4:"file";s:33:"analysis/600_design-principles.md";s:7:"section";s:3:"600";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:17:"Design principles";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:26:"analysis/design-principles";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:6050:"<h1>Usability</h1>
+
+<p>&#8220;Usability is defined by how easy and pleasant user interfaces are to use&#8221;.</p>
+
+<p>Här är presenterar jag dem fyra webbplatserna som jag har valt&#160;:<br><code> www.netflix.com</code>.<br> <code>www.antagning.se</code>.<br> <code>www.arbetsformedlingen.se</code>.<br> <code>www.tui.se</code>.<br></p>
+
+<p>Valet som jag har gjort är grundat på användningsfrekvens det vill säga att jag har tagit en webbplats som jag besöker minst en gång per dag&#160;: <code>netflix.com</code>. Jag har sedan tagit en annan webbplats som användningsfrekvens ligger på minst en gång per vecka&#160;: <code>antagning.se</code>. Därefter valde jag en webbplats som jag besöker minst en gång per år&#160;: <code>arbetsformedlingen.se</code>. Till slut tog jag en webbplats som jag har aldrig använt från tidigare men som enlignt e-tidning <mark>idg.se</mark> har varit årets bästa svenska sajt året 2017 i Topp100&#160;: <code>tui.se</code>.</p>
+
+<p>Jag kommer att följa dessa användbarhets kriterier för att betygsätta webbplatserna&#160;:</p>
+
+<div class=code>
+1. Learnability&#160;: Hur lätt det är att lära sig använda hemsidan för
+en nybörjare.<br>
+2. Efficiency&#160;: Hur lätt det är att använda och utföra uppgifter på hemsidan
+för icke nybörjare.<br>
+3. Memorability&#160;: Hur lätt det är att minnas hur man gjorde om man gör ett
+uppehåll och därefter börjar använda produkten igen.<br>
+4. Errors&#160;: Hur många eller få fel användaren gör. <br>
+5. Satisfaction&#160;: Hur fint hemsidan ser ut och vilken känslan man får genom
+att använda den.<br>
+</div>
+
+<hr>
+
+<div>
+<h3>1. Tui</h3>
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/tui.png?" alt="alt text"></p>
+<p>Tui är en av Sveriges största researrangör med en marknadesandel på drygt 30 procent. Företaget säljer resor till hela världen.</p>
+<p>webbplatsen är livfulla och fräsch. Valet av färger och bilder väcker en känsla av trygghet, pålitlighet och glädje.</p>
+<p>Sökfunktionen ligger i fokus och centraliserad som gör att man kan på ett smidigt sätt lätta efter sin dröm resa.</p>
+<p>Webbplatsen blir nog lättare att använda även för en nybörjare. Jag kan tänka mig att det är lätt att minnas hur man gjorde om man gör ett uppehåll.</p>
+
+<p>
+1. Learnability&#160;: 9/10<br>
+2. Efficiency&#160;: 10/10<br>
+3. Memorability&#160;: 9/10<br>
+4. Errors&#160;: 9/10<br>
+5. Satisfaction&#160;: 10/10<br>
+<mark>Score&#160;: 47/50</mark>
+</p>
+</div>
+
+<hr>
+
+<div>
+<h3>1. Antagning</h3>
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/antagning.png?" alt="alt text"></p>
+<p>Antagning är en sajt för att anmäla till universitet och högskolor. Den innehåller information om allt högskoleutbud i Sverige.</p>
+<p>Det är lätt att komma igång när man ska använda hemsidan. Sakerna på sajten ligger på ett symetriskt sätt och det skapar &#8220;balance&#8221; och &#8220;hierarchy&#8221;. Jag tycker att webbplatsen är byggd efter en grid.</p>
+<p>Det är lätt att hitta information och den egenskapen gör att sajten uppfyller en till användbarhets kriterier&#160;: <code>Findability (hittbarhet)</code>.</p>
+
+<p>
+1. Learnability&#160;: 9/10<br>
+2. Efficiency&#160;: 9/10<br>
+3. Memorability&#160;: 9/10<br>
+4. Errors&#160;: 9/10<br>
+5. Satisfaction&#160;: 9/10<br>
+<mark>Score&#160;: 45/50</mark>
+</p>
+</div>
+
+<hr>
+
+<div>
+<h3>2. Netflix</h3>
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/netflix.png?" alt="alt text"></p>
+<p>Netflix är ett amerikanskt företag som erbjuder uthyrning av filmer och TV-serier till en fast månadskostnad.</p>
+<p>Hemsidan har ganska enkla funktioner men innehåller väldigt mycket data med tanken på alla filmer som finns. Detta kan göra att det tar lite tid om man använder webbplatsen för första gång men i stora drag är Netflix inget komplicerad system för en nybörjare. Det finns en tydligt navbar längst upp på sidan som ger dem optimala ressurserna för att kunna ta sig igenom alla sidor.</p>
+<p>Efter ett uppehåll då kan jag tänka mig att man kommer ihåg hur man använder Netflix. Hemsidan är fin och livfulla. Den mörka bakgrund med vita text ger en riktig hemma-bio känsla och jag tycker att webbplatsen satisfierar vad användaren förväntar sig.</p>
+
+<p>
+1. Learnability&#160;: 8/10<br>
+2. Efficiency&#160;: 8/10<br>
+3. Memorability&#160;: 8/10<br>
+4. Errors&#160;: 9/10<br>
+5. Satisfaction&#160;: 10/10<br>
+<mark>Score&#160;: 43/50</mark>
+</p>
+</div>
+
+<hr>
+
+<div>
+<h3>3. Arbetsformedlingen</h3>
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/arbets.png?" alt="alt text"></p>
+<p>Arbetsformedlingen har till uppgift att förbättra arbetsmarknadens funktionsätt genom att effektivt sammanföra dem som söker arbete med dem som söker arbetskraft.</p>
+<p>Jag upplever att webbplatsen kan vara svårt att använda för första gång. Detta beror på att det är ganska mycket annat som presenteras på sajten än själva funtionen SÖKJOBB. Det är inte så konstigt att folk väljer att ta sig till arbetsformedlingens kontor än att söka jobb själv hemma på hemsidan. Anledningen kan vara bland annat den karens av flexibilitet som man upplever när man besöker webbplatsen! För mycket information! håll er till fakta, please! </p>
+<p>Mitt förslag är då att man lägger i fokus fuktionen &#8220;SÖKJOBB&#8221; genom att centralisera den så att den ockupera nästan 60% av hela sidan (60% i höjden och 100% bredden). Därefter minimiserar man resten och lägger dem &#8220;aside&#8221; på höger.</p>
+<p>Tanken man har när man besöker arbetsformedlingen.se är att hitta ett jobb. Man besöker sällan hemsidan för att veta hur man anmäler frånvaro första sjukdagen till exempel.</p>
+
+<p>
+1. Learnability&#160;: 6/10<br>
+2. Efficiency&#160;: 6/10<br>
+3. Memorability&#160;: 6/10<br>
+4. Errors&#160;: 6/10<br>
+5. Satisfaction&#160;: 7/10<br>
+<mark>Score&#160;: 31/50</mark>
+</p>
+</div>
+";s:7:"excerpt";s:6050:"<h1>Usability</h1>
+
+<p>&#8220;Usability is defined by how easy and pleasant user interfaces are to use&#8221;.</p>
+
+<p>Här är presenterar jag dem fyra webbplatserna som jag har valt&#160;:<br><code> www.netflix.com</code>.<br> <code>www.antagning.se</code>.<br> <code>www.arbetsformedlingen.se</code>.<br> <code>www.tui.se</code>.<br></p>
+
+<p>Valet som jag har gjort är grundat på användningsfrekvens det vill säga att jag har tagit en webbplats som jag besöker minst en gång per dag&#160;: <code>netflix.com</code>. Jag har sedan tagit en annan webbplats som användningsfrekvens ligger på minst en gång per vecka&#160;: <code>antagning.se</code>. Därefter valde jag en webbplats som jag besöker minst en gång per år&#160;: <code>arbetsformedlingen.se</code>. Till slut tog jag en webbplats som jag har aldrig använt från tidigare men som enlignt e-tidning <mark>idg.se</mark> har varit årets bästa svenska sajt året 2017 i Topp100&#160;: <code>tui.se</code>.</p>
+
+<p>Jag kommer att följa dessa användbarhets kriterier för att betygsätta webbplatserna&#160;:</p>
+
+<div class=code>
+1. Learnability&#160;: Hur lätt det är att lära sig använda hemsidan för
+en nybörjare.<br>
+2. Efficiency&#160;: Hur lätt det är att använda och utföra uppgifter på hemsidan
+för icke nybörjare.<br>
+3. Memorability&#160;: Hur lätt det är att minnas hur man gjorde om man gör ett
+uppehåll och därefter börjar använda produkten igen.<br>
+4. Errors&#160;: Hur många eller få fel användaren gör. <br>
+5. Satisfaction&#160;: Hur fint hemsidan ser ut och vilken känslan man får genom
+att använda den.<br>
+</div>
+
+<hr>
+
+<div>
+<h3>1. Tui</h3>
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/tui.png?" alt="alt text"></p>
+<p>Tui är en av Sveriges största researrangör med en marknadesandel på drygt 30 procent. Företaget säljer resor till hela världen.</p>
+<p>webbplatsen är livfulla och fräsch. Valet av färger och bilder väcker en känsla av trygghet, pålitlighet och glädje.</p>
+<p>Sökfunktionen ligger i fokus och centraliserad som gör att man kan på ett smidigt sätt lätta efter sin dröm resa.</p>
+<p>Webbplatsen blir nog lättare att använda även för en nybörjare. Jag kan tänka mig att det är lätt att minnas hur man gjorde om man gör ett uppehåll.</p>
+
+<p>
+1. Learnability&#160;: 9/10<br>
+2. Efficiency&#160;: 10/10<br>
+3. Memorability&#160;: 9/10<br>
+4. Errors&#160;: 9/10<br>
+5. Satisfaction&#160;: 10/10<br>
+<mark>Score&#160;: 47/50</mark>
+</p>
+</div>
+
+<hr>
+
+<div>
+<h3>1. Antagning</h3>
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/antagning.png?" alt="alt text"></p>
+<p>Antagning är en sajt för att anmäla till universitet och högskolor. Den innehåller information om allt högskoleutbud i Sverige.</p>
+<p>Det är lätt att komma igång när man ska använda hemsidan. Sakerna på sajten ligger på ett symetriskt sätt och det skapar &#8220;balance&#8221; och &#8220;hierarchy&#8221;. Jag tycker att webbplatsen är byggd efter en grid.</p>
+<p>Det är lätt att hitta information och den egenskapen gör att sajten uppfyller en till användbarhets kriterier&#160;: <code>Findability (hittbarhet)</code>.</p>
+
+<p>
+1. Learnability&#160;: 9/10<br>
+2. Efficiency&#160;: 9/10<br>
+3. Memorability&#160;: 9/10<br>
+4. Errors&#160;: 9/10<br>
+5. Satisfaction&#160;: 9/10<br>
+<mark>Score&#160;: 45/50</mark>
+</p>
+</div>
+
+<hr>
+
+<div>
+<h3>2. Netflix</h3>
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/netflix.png?" alt="alt text"></p>
+<p>Netflix är ett amerikanskt företag som erbjuder uthyrning av filmer och TV-serier till en fast månadskostnad.</p>
+<p>Hemsidan har ganska enkla funktioner men innehåller väldigt mycket data med tanken på alla filmer som finns. Detta kan göra att det tar lite tid om man använder webbplatsen för första gång men i stora drag är Netflix inget komplicerad system för en nybörjare. Det finns en tydligt navbar längst upp på sidan som ger dem optimala ressurserna för att kunna ta sig igenom alla sidor.</p>
+<p>Efter ett uppehåll då kan jag tänka mig att man kommer ihåg hur man använder Netflix. Hemsidan är fin och livfulla. Den mörka bakgrund med vita text ger en riktig hemma-bio känsla och jag tycker att webbplatsen satisfierar vad användaren förväntar sig.</p>
+
+<p>
+1. Learnability&#160;: 8/10<br>
+2. Efficiency&#160;: 8/10<br>
+3. Memorability&#160;: 8/10<br>
+4. Errors&#160;: 9/10<br>
+5. Satisfaction&#160;: 10/10<br>
+<mark>Score&#160;: 43/50</mark>
+</p>
+</div>
+
+<hr>
+
+<div>
+<h3>3. Arbetsformedlingen</h3>
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/arbets.png?" alt="alt text"></p>
+<p>Arbetsformedlingen har till uppgift att förbättra arbetsmarknadens funktionsätt genom att effektivt sammanföra dem som söker arbete med dem som söker arbetskraft.</p>
+<p>Jag upplever att webbplatsen kan vara svårt att använda för första gång. Detta beror på att det är ganska mycket annat som presenteras på sajten än själva funtionen SÖKJOBB. Det är inte så konstigt att folk väljer att ta sig till arbetsformedlingens kontor än att söka jobb själv hemma på hemsidan. Anledningen kan vara bland annat den karens av flexibilitet som man upplever när man besöker webbplatsen! För mycket information! håll er till fakta, please! </p>
+<p>Mitt förslag är då att man lägger i fokus fuktionen &#8220;SÖKJOBB&#8221; genom att centralisera den så att den ockupera nästan 60% av hela sidan (60% i höjden och 100% bredden). Därefter minimiserar man resten och lägger dem &#8220;aside&#8221; på höger.</p>
+<p>Tanken man har när man besöker arbetsformedlingen.se är att hitta ett jobb. Man besöker sällan hemsidan för att veta hur man anmäler frånvaro första sjukdagen till exempel.</p>
+
+<p>
+1. Learnability&#160;: 6/10<br>
+2. Efficiency&#160;: 6/10<br>
+3. Memorability&#160;: 6/10<br>
+4. Errors&#160;: 6/10<br>
+5. Satisfaction&#160;: 7/10<br>
+<mark>Score&#160;: 31/50</mark>
+</p>
+</div>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";a:10:{s:4:"file";s:21:"analysis/702_write.md";s:7:"section";s:3:"702";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Write";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"analysis/write";}s:8:"previous";a:10:{s:4:"file";s:33:"analysis/600_design-principles.md";s:7:"section";s:3:"600";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:17:"Design principles";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:26:"analysis/design-principles";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:8:"Analyser";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:7:{s:14:"analysis/index";a:9:{s:4:"file";s:21:"analysis/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"analysis/intro";a:9:{s:4:"file";s:21:"analysis/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:20:"analysis/colorscheme";a:9:{s:4:"file";s:27:"analysis/400_colorscheme.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:11:"Colorscheme";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:28:"analysis/speed-and-usability";a:9:{s:4:"file";s:35:"analysis/500_speed-and-usability.md";s:7:"section";s:3:"500";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:19:"Speed-and-Usability";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:26:"analysis/design-principles";a:9:{s:4:"file";s:33:"analysis/600_design-principles.md";s:7:"section";s:3:"600";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:17:"Design principles";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:18:"analysis/usability";a:9:{s:4:"file";s:25:"analysis/701_usability.md";s:7:"section";s:3:"701";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:9:"Usability";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"analysis/write";a:9:{s:4:"file";s:21:"analysis/702_write.md";s:7:"section";s:3:"702";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Write";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:9:"Usability";}}

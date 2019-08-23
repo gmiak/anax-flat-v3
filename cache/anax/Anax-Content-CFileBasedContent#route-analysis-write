@@ -1,0 +1,267 @@
+O:8:"stdClass":7:{s:4:"file";s:21:"analysis/702_write.md";s:7:"section";s:3:"702";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:9:"analysis/";s:4:"text";s:6:"Analys";}i:0;a:2:{s:3:"url";s:14:"analysis/write";s:4:"text";s:5:"Write";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:14:"img/report.jpg";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";N;s:8:"previous";a:10:{s:4:"file";s:25:"analysis/701_usability.md";s:7:"section";s:3:"701";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:9:"Usability";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:18:"analysis/usability";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:10008:"<h1>Write</h1>
+
+<p>&#8220;Långa, krångliga texter göre sig därför inget besvär på nätet om läsaren ska fångas.&#8221;.</p>
+
+<p>Här presenterar jag dem fyra webbplatserna som jag har valt&#160;:<br><code> www.idg.se</code>.<br> <code>www.nytimes.com</code>.<br> <code>www.isabellalowengrip.se</code>.<br> <code>www.aftonbladet.se</code>.<br></p>
+
+<p>Valet är baserad på först och främst webbplatser som känntecknas av text och artiklar. Sen tänkte jag göra bredare min analys genom att hitta en kombination av olika sajter med olika grundtema.<br>a. <mark>IDG</mark> till exempel, är en utgivare av IT-relaterad information. Den är världens ledande databasdrivna techmedia, event och marknadsföringsföretag.<br>b. <mark>New York Times</mark> för sin del är en amerikansk dagstidning och en av världens mest ansedda, och omfångsrika dagstidningar. Den är känd som en av världens största tidningar och dess webbplats är USA:s mest besökta nyhetssajt, med mer än 30 miljoner unika läsare varje månad.<br>c. <mark>Isabella Löwengrip (Blondinbella)</mark> driver blogg-sajten www.isabellalowengrip.se . Bloggen hade år 2015 över 1miljon unika besökare i veckan och är nu Nordens största blogg.<br>d. <mark>Aftonbladet</mark> är en svensk kvälls- och nättidning. Enligt ett analysföretag, har Aftonbladets webbplatser, jämfört med andra angivna webbplatser, höga siffror avseende svenska internetanvändares besök, räckvidd och sidvisningar.</p>
+
+<p>Man märker att mitt val av webbplatser sträcker sig på olika konsumtions område. Innehållet för respektiva sajter skilljer sig ganska mycket med varandra men, alla har en gemensam nämnare&#160;: lockar många besökare. <br>Låt oss nu analysera dessa webbplatser och jag har bestämt att grunda min analys från följande kriterier:</p>
+
+<div class=code>
+1. Bra rubrik&#160;: I många fall är läsaren på jakt efter något specifikt och
+skumläser otåligt tills han/hon hittar det som är intressant. Att ha en rubrik
+som väcker intresset är nödvandigt om man vill maximera chansen att fånga in
+läsaren.<br>
+2. Intressant, enkel och tydlig&#160;: Det gäller att behålla läsarens intresse.
+Pratiga, luddiga texter utan detaljer locker alltså inte särskillt många.
+Texten ska ge läsarna den information eller upplevelse de vill ha.<br>
+3. Läsbarhet&#160;: Göra formatet på texten så lättläst som möjligt genom bra
+kontrast.<br>
+4. LIX&#160;: LIX mäter hur långa meningarna och orden i texten är och visar
+ungefär på vilken nivå texten ligger:
+Under 30&#160;: Mycket lättläst, barnböcker
+30 - 40&#160;: Lättläst, skönlitteratur, populärtidningar
+40 - 50&#160;: Medelsvår, normal tidningstext
+50 - 60&#160;: Svår, normalt värde för officiella texter
+Över 60&#160;: Mycket svår, byråkratsvenska <br>
+5. Satisfaction&#160;: Vilken känslan får man genom att läsa texten?<br>
+</div>
+
+<hr>
+
+<div>
+<h3>1. New York Times</h3>
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/nytimes.png?" alt="alt text"></p>
+<p>&#8220;Rubriken är ett sätt att paketera din information. Den ska inte sälja, utan få folk att köpa.&#8221;<br>Här märker man direkt när man kommer på hemsidan att det är proffs som arbetar. Lockande rubriker som besvarar besökares frågor och fångar deras intresse för att de lätt kan klicka sig vidare till den information de söker.</p>
+<p>Artiklarna är naturligtvis informativ med bra och flyttande språk, rakt på sak. Jag hade nog önskat att de var lite kortfattade eftersom att jag upplevde att de var lite för långa.</p>
+<p>Formatet på texten är styligt och elegant. De använder ett serif typsnitt på en vit bakgrund och svarta texter. Typsnittet är lite snirkligt och handskrift. Det ger en känsla att läsa på tidningspapper. Fördelen är att det skapar en fin och snygg upplevelse men nackdelen kan vara att det blir lite svårt att läsa.</p>
+<p>Textens läsbarhetsindex är 29, vilket innebär att den klassificeras som mycket lättläst, barnböcker.</p>
+<p>Webbplatsen är snygg och lätt att använda. Man har inte svårt att hitta information. Sajten förmedlar en känsla av professionalism, enklhet och elegans.</p>
+
+<p>
+1. Bra rubrik&#160;: 10/10<br>
+2. Intressant&#160;: 9/10<br>
+3. Läsbarhet&#160;: 9/10<br>
+4. LIX&#160;: 10/10<br>
+5. Satisfaction&#160;: 9/10<br>
+<mark>Score&#160;: 47/50</mark>
+</p>
+</div>
+
+<hr>
+
+<div>
+<h3>2. Isabella</h3>
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/isabella.png?" alt="alt text"></p>
+<p>Det som gör Isabella framgång enligt mig är det brutto sättet att presentera eller skriva om sitt liv. Hon finslipar sällan utan att hon skriver och formulerar sig exakt hur hon tänker.</p>
+<p>Rubrikerna är inga absolut toppnivå, inga exceptionella justeringar. Dem är vanliga och de funkar väldigt bra för att fånga läsarna. Till exempel introducerar hon en artikel med&#160;: &#8220;En dag i sängen&#8221; och en annan artikel med&#160;: &#8220;Sovrumshäng&#8221;.</p>
+<p>Artiklarna följer samma form d.v.s dem är personliga, känsliga, detaljerade, sakliga och framför allt kortfattade. De presenteras tillsammans med snygga bilder som ofta sammanfattar ännu bättre hela berättelsen än själva texten.</p>
+<p>En av de kraftiga vapen som Isabella har; det är den förmågan att vara känd och fortfarande bevara den naturliga, ärliga och mänskliga i sina texter. Det är bland annat anledningen som många besöker webbplatsen eftersom att de flesta kan relatera sig om vissa händelser som hon beskriver.</p>
+<p>Formatet på texten är fin och lättläst. De använder ett sans-serif typsnitt på en vit bakgrund och svarta texter. Om du adderar den konstrasten och alla fina bilder som finns på sajten, du får en underhållning känsla och sajten är snygg att kolla på.</p>
+<p>Textens läsbarhetsindex är 25, vilket innebär att den klassificeras som mycket lättläst, barnböcker.</p>
+<p>Webbplatsen är fräsch och lätt att använda. Artiklarna är roande och trevliga att läsa. Det är helt enkelt &#8220;Blondin Bella&#8221;.</p>
+
+<p>
+1. Bra rubrik&#160;: 9/10<br>
+2. Intressant&#160;: 8/10<br>
+3. Läsbarhet&#160;: 9/10<br>
+4. LIX&#160;: 10/10<br>
+5. Satisfaction&#160;: 9/10<br>
+<mark>Score&#160;: 45/50</mark>
+</p>
+</div>
+
+<hr>
+
+<div>
+<h3>3. DGI</h3>
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/idg.png?" alt="alt text"></p>
+<p>Sajten levererar ganska bra och intressanta rubriker och målgruppen kan man tidligt ser att det är personer med IT som intresse. Det blev för min del bara cirka 70% av alla rubriker som kunde skapa nyfikenhet. Detta beror bland annat på formuleringen av vissa rubriker, till exempel var jag inte lika mycket intresserad av artiklar som rubriken visade sig handlar om saker som händer i ett annat geografiskt område betydligt längre ifrån där jag befinner mig. Jag fastnade ofta på saker som jag kunde relatera mig till. När det handlade om Facebook, Google, Apple, Microsoft, Sverige eller Skolor då tenderarde jag att läsa vidare.</p>
+<p>En attraherande rubrik är inte den enda som krävs för att få läsarens uppmärksamhet. Det hadlar ofta att formulera bra sin text för att övertyga läsaren om att stanna kvar och läsa artikeln.</p>
+<p>Artiklarna hade ofta en kortfattat och väl formulerad text. Detta gjorde att jag kunde läsa 80% av vad som skrevs innan att jag gick vidare till nästa.</p>
+<p>Formatet på texten var lättläst. De använder i stora drag ett sans-serif typsnitt på en vit bakgrund och svarta text. Den kontrast gör naturligtvis en skön upplevelse för ögonen eftersom dem inte fort blir ansträngda när man läser.</p>
+<p>Textens läsbarhetsindex är 40, vilket innebär att den klassificeras som medelsvår, normal tidningstext.</p>
+<p>Det är ganska lätt att använda webbplatsen. Man hittar snabbare information som man vill ha. Om det är en grej som jag kan störa mig på så är det alla reklam som kommer upp annars fungerar allt som det ska.</p>
+
+<p>
+1. Bra rubrik&#160;: 8/10<br>
+2. Intressant&#160;: 8/10<br>
+3. Läsbarhet&#160;: 9/10<br>
+4. LIX&#160;: 8/10<br>
+5. Satisfaction&#160;: 8/10<br>
+<mark>Score&#160;: 41/50</mark>
+</p>
+</div>
+
+<hr>
+
+<div>
+<h3>4. Aftonbladet</h3>
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/afton.png?" alt="alt text"></p>
+<p>Det var inget speciellt med rubrikerna på aftonbladets hemsidan. De var inte så avgörande för att vägleda och guida.</p>
+<p>Texterna däremot var kortfattade och återberättade fakta om nyhetshändelser med flytande språk och rakt på sak utan onödigt berättande.</p>
+<p>Formatet på texten är lättläst med sans-serif typsnitt på en vit bakgrund och svarta texter.</p>
+<p>Textens läsbarhetsindex är 37, vilket innebär att den klassificeras som lättläst, skönlitteratur, populärtidningar.</p>
+<p>Webbplatsen är lätt att hantera. Man får snabbt tillgång till information men det är störande med alla reklam som poppar upp.</p>
+
+<p>
+1. Bra rubrik&#160;: 7/10<br>
+2. Intressant&#160;: 7/10<br>
+3. Läsbarhet&#160;: 9/10<br>
+4. LIX&#160;: 8/10<br>
+5. Satisfaction&#160;: 7/10<br>
+<mark>Score&#160;: 38/50</mark>
+</p>
+</div>
+
+<div class="code">Avslutningsvis märker vi att alla dessa webbplatser har gemensamma varderingar
+som har gjort deras framgång.  
+De har bland annat investerat på&#160;:
+- Avgörande rubriker som ska vägleda och guida besökare på hemsidan.
+Rubrikerna ska locka till läsning.
+- Tydliga och intressanta texter som ger läsarna den information eller
+upplevelse de vill ha.
+- Att göra formatet på texten så lättläst som möjligt genom bra kontrast,
+tillräckligt stor grad och typsnitt som är lätta att läsa.
+Jag har till exempel inte sett någonstans där man har använt en gul
+bakgrundsfärg med vita texter och för snirkliga och handskriftsliknande
+typsnitt.
+Sträva efter enkelhet och reducera komplexitet!
+
+
+</div>
+";s:7:"excerpt";s:10008:"<h1>Write</h1>
+
+<p>&#8220;Långa, krångliga texter göre sig därför inget besvär på nätet om läsaren ska fångas.&#8221;.</p>
+
+<p>Här presenterar jag dem fyra webbplatserna som jag har valt&#160;:<br><code> www.idg.se</code>.<br> <code>www.nytimes.com</code>.<br> <code>www.isabellalowengrip.se</code>.<br> <code>www.aftonbladet.se</code>.<br></p>
+
+<p>Valet är baserad på först och främst webbplatser som känntecknas av text och artiklar. Sen tänkte jag göra bredare min analys genom att hitta en kombination av olika sajter med olika grundtema.<br>a. <mark>IDG</mark> till exempel, är en utgivare av IT-relaterad information. Den är världens ledande databasdrivna techmedia, event och marknadsföringsföretag.<br>b. <mark>New York Times</mark> för sin del är en amerikansk dagstidning och en av världens mest ansedda, och omfångsrika dagstidningar. Den är känd som en av världens största tidningar och dess webbplats är USA:s mest besökta nyhetssajt, med mer än 30 miljoner unika läsare varje månad.<br>c. <mark>Isabella Löwengrip (Blondinbella)</mark> driver blogg-sajten www.isabellalowengrip.se . Bloggen hade år 2015 över 1miljon unika besökare i veckan och är nu Nordens största blogg.<br>d. <mark>Aftonbladet</mark> är en svensk kvälls- och nättidning. Enligt ett analysföretag, har Aftonbladets webbplatser, jämfört med andra angivna webbplatser, höga siffror avseende svenska internetanvändares besök, räckvidd och sidvisningar.</p>
+
+<p>Man märker att mitt val av webbplatser sträcker sig på olika konsumtions område. Innehållet för respektiva sajter skilljer sig ganska mycket med varandra men, alla har en gemensam nämnare&#160;: lockar många besökare. <br>Låt oss nu analysera dessa webbplatser och jag har bestämt att grunda min analys från följande kriterier:</p>
+
+<div class=code>
+1. Bra rubrik&#160;: I många fall är läsaren på jakt efter något specifikt och
+skumläser otåligt tills han/hon hittar det som är intressant. Att ha en rubrik
+som väcker intresset är nödvandigt om man vill maximera chansen att fånga in
+läsaren.<br>
+2. Intressant, enkel och tydlig&#160;: Det gäller att behålla läsarens intresse.
+Pratiga, luddiga texter utan detaljer locker alltså inte särskillt många.
+Texten ska ge läsarna den information eller upplevelse de vill ha.<br>
+3. Läsbarhet&#160;: Göra formatet på texten så lättläst som möjligt genom bra
+kontrast.<br>
+4. LIX&#160;: LIX mäter hur långa meningarna och orden i texten är och visar
+ungefär på vilken nivå texten ligger:
+Under 30&#160;: Mycket lättläst, barnböcker
+30 - 40&#160;: Lättläst, skönlitteratur, populärtidningar
+40 - 50&#160;: Medelsvår, normal tidningstext
+50 - 60&#160;: Svår, normalt värde för officiella texter
+Över 60&#160;: Mycket svår, byråkratsvenska <br>
+5. Satisfaction&#160;: Vilken känslan får man genom att läsa texten?<br>
+</div>
+
+<hr>
+
+<div>
+<h3>1. New York Times</h3>
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/nytimes.png?" alt="alt text"></p>
+<p>&#8220;Rubriken är ett sätt att paketera din information. Den ska inte sälja, utan få folk att köpa.&#8221;<br>Här märker man direkt när man kommer på hemsidan att det är proffs som arbetar. Lockande rubriker som besvarar besökares frågor och fångar deras intresse för att de lätt kan klicka sig vidare till den information de söker.</p>
+<p>Artiklarna är naturligtvis informativ med bra och flyttande språk, rakt på sak. Jag hade nog önskat att de var lite kortfattade eftersom att jag upplevde att de var lite för långa.</p>
+<p>Formatet på texten är styligt och elegant. De använder ett serif typsnitt på en vit bakgrund och svarta texter. Typsnittet är lite snirkligt och handskrift. Det ger en känsla att läsa på tidningspapper. Fördelen är att det skapar en fin och snygg upplevelse men nackdelen kan vara att det blir lite svårt att läsa.</p>
+<p>Textens läsbarhetsindex är 29, vilket innebär att den klassificeras som mycket lättläst, barnböcker.</p>
+<p>Webbplatsen är snygg och lätt att använda. Man har inte svårt att hitta information. Sajten förmedlar en känsla av professionalism, enklhet och elegans.</p>
+
+<p>
+1. Bra rubrik&#160;: 10/10<br>
+2. Intressant&#160;: 9/10<br>
+3. Läsbarhet&#160;: 9/10<br>
+4. LIX&#160;: 10/10<br>
+5. Satisfaction&#160;: 9/10<br>
+<mark>Score&#160;: 47/50</mark>
+</p>
+</div>
+
+<hr>
+
+<div>
+<h3>2. Isabella</h3>
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/isabella.png?" alt="alt text"></p>
+<p>Det som gör Isabella framgång enligt mig är det brutto sättet att presentera eller skriva om sitt liv. Hon finslipar sällan utan att hon skriver och formulerar sig exakt hur hon tänker.</p>
+<p>Rubrikerna är inga absolut toppnivå, inga exceptionella justeringar. Dem är vanliga och de funkar väldigt bra för att fånga läsarna. Till exempel introducerar hon en artikel med&#160;: &#8220;En dag i sängen&#8221; och en annan artikel med&#160;: &#8220;Sovrumshäng&#8221;.</p>
+<p>Artiklarna följer samma form d.v.s dem är personliga, känsliga, detaljerade, sakliga och framför allt kortfattade. De presenteras tillsammans med snygga bilder som ofta sammanfattar ännu bättre hela berättelsen än själva texten.</p>
+<p>En av de kraftiga vapen som Isabella har; det är den förmågan att vara känd och fortfarande bevara den naturliga, ärliga och mänskliga i sina texter. Det är bland annat anledningen som många besöker webbplatsen eftersom att de flesta kan relatera sig om vissa händelser som hon beskriver.</p>
+<p>Formatet på texten är fin och lättläst. De använder ett sans-serif typsnitt på en vit bakgrund och svarta texter. Om du adderar den konstrasten och alla fina bilder som finns på sajten, du får en underhållning känsla och sajten är snygg att kolla på.</p>
+<p>Textens läsbarhetsindex är 25, vilket innebär att den klassificeras som mycket lättläst, barnböcker.</p>
+<p>Webbplatsen är fräsch och lätt att använda. Artiklarna är roande och trevliga att läsa. Det är helt enkelt &#8220;Blondin Bella&#8221;.</p>
+
+<p>
+1. Bra rubrik&#160;: 9/10<br>
+2. Intressant&#160;: 8/10<br>
+3. Läsbarhet&#160;: 9/10<br>
+4. LIX&#160;: 10/10<br>
+5. Satisfaction&#160;: 9/10<br>
+<mark>Score&#160;: 45/50</mark>
+</p>
+</div>
+
+<hr>
+
+<div>
+<h3>3. DGI</h3>
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/idg.png?" alt="alt text"></p>
+<p>Sajten levererar ganska bra och intressanta rubriker och målgruppen kan man tidligt ser att det är personer med IT som intresse. Det blev för min del bara cirka 70% av alla rubriker som kunde skapa nyfikenhet. Detta beror bland annat på formuleringen av vissa rubriker, till exempel var jag inte lika mycket intresserad av artiklar som rubriken visade sig handlar om saker som händer i ett annat geografiskt område betydligt längre ifrån där jag befinner mig. Jag fastnade ofta på saker som jag kunde relatera mig till. När det handlade om Facebook, Google, Apple, Microsoft, Sverige eller Skolor då tenderarde jag att läsa vidare.</p>
+<p>En attraherande rubrik är inte den enda som krävs för att få läsarens uppmärksamhet. Det hadlar ofta att formulera bra sin text för att övertyga läsaren om att stanna kvar och läsa artikeln.</p>
+<p>Artiklarna hade ofta en kortfattat och väl formulerad text. Detta gjorde att jag kunde läsa 80% av vad som skrevs innan att jag gick vidare till nästa.</p>
+<p>Formatet på texten var lättläst. De använder i stora drag ett sans-serif typsnitt på en vit bakgrund och svarta text. Den kontrast gör naturligtvis en skön upplevelse för ögonen eftersom dem inte fort blir ansträngda när man läser.</p>
+<p>Textens läsbarhetsindex är 40, vilket innebär att den klassificeras som medelsvår, normal tidningstext.</p>
+<p>Det är ganska lätt att använda webbplatsen. Man hittar snabbare information som man vill ha. Om det är en grej som jag kan störa mig på så är det alla reklam som kommer upp annars fungerar allt som det ska.</p>
+
+<p>
+1. Bra rubrik&#160;: 8/10<br>
+2. Intressant&#160;: 8/10<br>
+3. Läsbarhet&#160;: 9/10<br>
+4. LIX&#160;: 8/10<br>
+5. Satisfaction&#160;: 8/10<br>
+<mark>Score&#160;: 41/50</mark>
+</p>
+</div>
+
+<hr>
+
+<div>
+<h3>4. Aftonbladet</h3>
+<p><img src="http://localhost/dbwebb-kurser/design/me/anax-flat/htdocs/img/afton.png?" alt="alt text"></p>
+<p>Det var inget speciellt med rubrikerna på aftonbladets hemsidan. De var inte så avgörande för att vägleda och guida.</p>
+<p>Texterna däremot var kortfattade och återberättade fakta om nyhetshändelser med flytande språk och rakt på sak utan onödigt berättande.</p>
+<p>Formatet på texten är lättläst med sans-serif typsnitt på en vit bakgrund och svarta texter.</p>
+<p>Textens läsbarhetsindex är 37, vilket innebär att den klassificeras som lättläst, skönlitteratur, populärtidningar.</p>
+<p>Webbplatsen är lätt att hantera. Man får snabbt tillgång till information men det är störande med alla reklam som poppar upp.</p>
+
+<p>
+1. Bra rubrik&#160;: 7/10<br>
+2. Intressant&#160;: 7/10<br>
+3. Läsbarhet&#160;: 9/10<br>
+4. LIX&#160;: 8/10<br>
+5. Satisfaction&#160;: 7/10<br>
+<mark>Score&#160;: 38/50</mark>
+</p>
+</div>
+
+<div class="code">Avslutningsvis märker vi att alla dessa webbplatser har gemensamma varderingar
+som har gjort deras framgång.  
+De har bland annat investerat på&#160;:
+- Avgörande rubriker som ska vägleda och guida besökare på hemsidan.
+Rubrikerna ska locka till läsning.
+- Tydliga och intressanta texter som ger läsarna den information eller
+upplevelse de vill ha.
+- Att göra formatet på texten så lättläst som möjligt genom bra kontrast,
+tillräckligt stor grad och typsnitt som är lätta att läsa.
+Jag har till exempel inte sett någonstans där man har använt en gul
+bakgrundsfärg med vita texter och för snirkliga och handskriftsliknande
+typsnitt.
+Sträva efter enkelhet och reducera komplexitet!
+
+
+</div>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";N;s:8:"previous";a:10:{s:4:"file";s:25:"analysis/701_usability.md";s:7:"section";s:3:"701";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:9:"Usability";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:18:"analysis/usability";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:8:"Analyser";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:7:{s:14:"analysis/index";a:9:{s:4:"file";s:21:"analysis/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"analysis/intro";a:9:{s:4:"file";s:21:"analysis/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduction";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:20:"analysis/colorscheme";a:9:{s:4:"file";s:27:"analysis/400_colorscheme.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:11:"Colorscheme";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:28:"analysis/speed-and-usability";a:9:{s:4:"file";s:35:"analysis/500_speed-and-usability.md";s:7:"section";s:3:"500";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:19:"Speed-and-Usability";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:26:"analysis/design-principles";a:9:{s:4:"file";s:33:"analysis/600_design-principles.md";s:7:"section";s:3:"600";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:17:"Design principles";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:18:"analysis/usability";a:9:{s:4:"file";s:25:"analysis/701_usability.md";s:7:"section";s:3:"701";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:9:"Usability";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"analysis/write";a:9:{s:4:"file";s:21:"analysis/702_write.md";s:7:"section";s:3:"702";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Write";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:5:"Write";}}
